@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg19502"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="016.svg"
+   inkscape:export-filename="/home/spcmd/Projects/Morphy-Staunton_Comic/_TEMPLATE.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <title
+     id="title36669">The Challenge: An illustrated story of Paul Morphy and Howard Staunton</title>
+  <defs
+     id="defs19496">
+    <rect
+       x="138.47333"
+       y="273"
+       width="48.681046"
+       height="11.5"
+       id="rect16788" />
+    <pattern
+       patternTransform="matrix(10.995775,8.6493374,-6.9781797,6.3090477,-19.325051,-80.075558)"
+       id="pattern20617"
+       xlink:href="#Checkerboard" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="2"
+       patternTransform="translate(0,0) scale(10,10)"
+       id="Checkerboard">
+      <rect
+         style="fill:black;stroke:none"
+         x="0"
+         y="0"
+         width="1"
+         height="1"
+         id="rect1884" />
+      <rect
+         style="fill:black;stroke:none"
+         x="1"
+         y="1"
+         width="1"
+         height="1"
+         id="rect1886" />
+    </pattern>
+    <linearGradient
+       xlink:href="#SvgjsLinearGradient3371"
+       id="linearGradient14041-0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-52)"
+       x1="127.212"
+       y1="82.295998"
+       x2="126.463"
+       y2="83.189003" />
+    <linearGradient
+       id="SvgjsLinearGradient3371"
+       x1="127.212"
+       y1="82.295998"
+       x2="126.463"
+       y2="83.189003"
+       gradientTransform="translate(-52)"
+       gradientUnits="userSpaceOnUse"
+       class="svga-on-canvas-eyesiris-gradient-left-6">
+      <stop
+         id="SvgjsStop3372"
+         stop-opacity="1"
+         stop-color="#ffffff"
+         offset="0" />
+      <stop
+         id="SvgjsStop3373"
+         stop-opacity="0"
+         stop-color="#ffffff"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       y2="83.189003"
+       x2="126.463"
+       y1="82.295998"
+       x1="127.212"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient9203-3-9-3-7"
+       xlink:href="#SvgjsLinearGradient3394" />
+    <linearGradient
+       id="SvgjsLinearGradient3394"
+       x1="127.212"
+       y1="82.295998"
+       x2="126.463"
+       y2="83.189003"
+       gradientUnits="userSpaceOnUse"
+       class="svga-on-canvas-eyesiris-gradient-right-6">
+      <stop
+         id="SvgjsStop3395"
+         stop-opacity="1"
+         stop-color="#ffffff"
+         offset="0" />
+      <stop
+         id="SvgjsStop3396"
+         stop-opacity="0"
+         stop-color="#ffffff"
+         offset="1" />
+    </linearGradient>
+    <pattern
+       patternTransform="matrix(10.995775,8.6493374,-6.9781797,6.3090477,-19.325051,-80.075558)"
+       id="pattern20617-3"
+       xlink:href="#Checkerboard-6" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="2"
+       patternTransform="translate(0,0) scale(10,10)"
+       id="Checkerboard-6">
+      <rect
+         style="fill:black;stroke:none"
+         x="0"
+         y="0"
+         width="1"
+         height="1"
+         id="rect1884-7" />
+      <rect
+         style="fill:black;stroke:none"
+         x="1"
+         y="1"
+         width="1"
+         height="1"
+         id="rect1886-5" />
+    </pattern>
+    <linearGradient
+       xlink:href="#SvgjsLinearGradient3371"
+       id="linearGradient14041-0-3"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-52)"
+       x1="127.212"
+       y1="82.295998"
+       x2="126.463"
+       y2="83.189003" />
+    <linearGradient
+       y2="83.189003"
+       x2="126.463"
+       y1="82.295998"
+       x1="127.212"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient9203-3-9-3-7-2"
+       xlink:href="#SvgjsLinearGradient3394" />
+    <rect
+       y="3.7521408"
+       x="1101.7798"
+       height="97.981018"
+       width="199.84012"
+       id="rect14213-1-6-2-4-4-1-2-5"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742" />
+    <rect
+       y="3.7521408"
+       x="1101.7798"
+       height="97.981018"
+       width="199.84012"
+       id="rect28243"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect14213-1-6-2-9-0-7-9"
+       width="90.843178"
+       height="11.416029"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect28246"
+       width="90.843178"
+       height="11.416029"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       y="3.7521408"
+       x="1101.7798"
+       height="11.416029"
+       width="90.843178"
+       id="rect14213-1-6-2-9-0-7-9-7"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742" />
+    <rect
+       y="3.7521408"
+       x="1101.7798"
+       height="11.416029"
+       width="90.843178"
+       id="rect28249"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect14213-1-6-2-9-0-7-9-1-8"
+       width="11.227488"
+       height="12.016135"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect28252"
+       width="11.227488"
+       height="12.016135"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       y="3.7521408"
+       x="1101.7798"
+       height="12.016135"
+       width="11.227488"
+       id="rect14213-1-6-2-9-0-7-9-1-8-3"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742" />
+    <rect
+       y="3.7521408"
+       x="1101.7798"
+       height="12.016135"
+       width="11.227488"
+       id="rect28255"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect14213-1-6-2-9-0-7-9-1-8-3-8"
+       width="11.227488"
+       height="12.016135"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect28258"
+       width="11.227488"
+       height="12.016135"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect14213-1-6-2-9-0-7-9-1-8-3-6"
+       width="11.227488"
+       height="12.016135"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect28261"
+       width="11.227488"
+       height="12.016135"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       y="3.7521408"
+       x="1101.7798"
+       height="12.016135"
+       width="11.227488"
+       id="rect14213-1-6-2-9-0-7-9-1-8-33"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742" />
+    <rect
+       y="3.7521408"
+       x="1101.7798"
+       height="12.016135"
+       width="11.227488"
+       id="rect28264"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect14213-1-6-2-9-0-7-9-1-8-33-6"
+       width="11.227488"
+       height="12.016135"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect28267"
+       width="11.227488"
+       height="12.016135"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       y="3.7521408"
+       x="1101.7798"
+       height="12.016135"
+       width="11.227488"
+       id="rect14213-1-6-2-9-0-7-9-1-8-33-6-4"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742" />
+    <rect
+       y="3.7521408"
+       x="1101.7798"
+       height="12.016135"
+       width="11.227488"
+       id="rect28270"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect14213-1-6-2-9-0-7-9-1-8-33-6-4-8"
+       width="11.227488"
+       height="12.016135"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect28273"
+       width="11.227488"
+       height="12.016135"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect14213-1-6-2-4-4-1-2-5-3"
+       width="74.995674"
+       height="87.702873"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect28276"
+       width="74.995674"
+       height="87.702873"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect28278"
+       width="74.995674"
+       height="87.702873"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect28280"
+       width="74.995674"
+       height="87.702873"
+       x="1101.7798"
+       y="3.7521408" />
+    <pattern
+       patternTransform="matrix(10.995775,8.6493374,-6.9781797,6.3090477,-19.325051,-80.075558)"
+       id="pattern20617-3-3"
+       xlink:href="#Checkerboard-6-6" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="2"
+       patternTransform="translate(0,0) scale(10,10)"
+       id="Checkerboard-6-6">
+      <rect
+         style="fill:black;stroke:none"
+         x="0"
+         y="0"
+         width="1"
+         height="1"
+         id="rect1884-7-7" />
+      <rect
+         style="fill:black;stroke:none"
+         x="1"
+         y="1"
+         width="1"
+         height="1"
+         id="rect1886-5-5" />
+    </pattern>
+    <linearGradient
+       y2="131"
+       x2="100"
+       y1="171"
+       x1="100"
+       gradientTransform="matrix(2.0862461,0,0,2.0862461,306.57994,-1853.8039)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient18225"
+       xlink:href="#SvgjsLinearGradient4157" />
+    <linearGradient
+       gradientTransform="matrix(2.0862461,0,0,2.0862461,306.57994,-1853.8039)"
+       id="SvgjsLinearGradient4157"
+       x1="100"
+       y1="171"
+       x2="100"
+       y2="131"
+       gradientUnits="userSpaceOnUse"
+       class="svga-on-canvas-chinshadow-gradient-single-0">
+      <stop
+         id="SvgjsStop4158"
+         stop-opacity="0.8"
+         stop-color="#f0d8d8"
+         offset="0" />
+      <stop
+         id="SvgjsStop4159"
+         stop-opacity="1"
+         stop-color="#d19292"
+         offset="0.7" />
+    </linearGradient>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect14213-1-6-2-4-9-1-4"
+       width="174.82845"
+       height="257.65015"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect39834"
+       width="174.82845"
+       height="257.65015"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect14213-1-6-2-4-9-1-4-9"
+       width="174.82845"
+       height="257.65015"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect40006"
+       width="174.82845"
+       height="257.65015"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       y="38.494831"
+       x="1521.2491"
+       height="271.21219"
+       width="171.40307"
+       id="rect14213-1-0-12-4"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.74602;stroke-miterlimit:4;stroke-dasharray:none" />
+    <rect
+       y="38.494831"
+       x="1521.2491"
+       height="257.41266"
+       width="175.47855"
+       id="rect40085"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.74602;stroke-miterlimit:4;stroke-dasharray:none" />
+    <rect
+       y="38.494831"
+       x="1521.2491"
+       height="11.1841"
+       width="48.714359"
+       id="rect14213-1-0-12-4-7"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.74602;stroke-miterlimit:4;stroke-dasharray:none" />
+    <rect
+       y="38.494831"
+       x="1521.2491"
+       height="11.1841"
+       width="48.714359"
+       id="rect21957"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.74602;stroke-miterlimit:4;stroke-dasharray:none" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#0000d8"
+     borderopacity="1"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="253.38095"
+     inkscape:cy="388.30567"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     borderlayer="false"
+     inkscape:showpageshadow="false"
+     inkscape:snap-global="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-page="true"
+     inkscape:window-width="1678"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="42"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true">
+    <sodipodi:guide
+       position="12.5,280.74703"
+       orientation="-1,0"
+       id="guide30126"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="197.5,243.70536"
+       orientation="-1,0"
+       id="guide30128"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-38.931547,284.5"
+       orientation="0,1"
+       id="guide30130"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,297"
+       orientation="0,793.70079"
+       id="guide30134" />
+    <sodipodi:guide
+       position="210,297"
+       orientation="1122.5197,0"
+       id="guide30136" />
+    <sodipodi:guide
+       position="210,0"
+       orientation="0,-793.70079"
+       id="guide30138" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-1122.5197,0"
+       id="guide30140" />
+    <sodipodi:guide
+       position="-63.122022,12.5"
+       orientation="0,1"
+       id="guide30142"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="173.77805,-2.912658"
+       orientation="-1,0"
+       id="guide8679"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(230,97,0)" />
+    <sodipodi:guide
+       position="159.22247,259.864"
+       orientation="0,1"
+       id="guide9332"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(230,97,0)" />
+    <sodipodi:guide
+       position="175.31569,256.349"
+       orientation="0,1"
+       id="guide9334"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(230,97,0)" />
+    <sodipodi:guide
+       position="-3.324,20"
+       orientation="0,1"
+       id="guide16269"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(230,97,0)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata19499">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>The Challenge: An illustrated story of Paul Morphy and Howard Staunton</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Ka (https://github.com/Ka-hu)</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="" />
+        <dc:language>English</dc:language>
+        <dc:date>2021</dc:date>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       y="0.43934786"
+       x="0.43934721"
+       height="296.12131"
+       width="209.12131"
+       id="rect14213-8"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.878694" />
+    <rect
+       y="12.85"
+       x="12.85"
+       height="23.936001"
+       width="160.57805"
+       id="rect21431"
+       style="vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000" />
+    <g
+       id="g64413"
+       transform="translate(1.7395158,-0.07410937)">
+      <text
+         id="text14423"
+         y="30.703148"
+         x="33.32851"
+         style="font-size:12.7px;line-height:13.0004px;font-family:Lora;-inkscape-font-specification:'Lora, Normal';letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke:none;stroke-width:0.376022;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.7px;font-family:Lora;-inkscape-font-specification:'Lora Medium';fill:#ffffff;stroke:none;stroke-width:0.376022"
+           y="30.703148"
+           x="33.32851"
+           id="tspan14421">CAFÉ DE LA RÉGENCE</tspan></text>
+      <g
+         id="g60300">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.773037;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 15.442442,23.323105 12.477313,-0.001 c 0.07902,4.506337 -1.8773,6.044562 -3.82885,7.526251 l -4.910464,-0.04652 C 17.387537,29.4394 15.368153,27.950265 15.442442,23.323109 Z"
+           id="path8154" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.773037;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 27.82357,25.168814 c 5.675635,-0.482952 2.61843,3.6247 -1.850939,4.06674"
+           id="path8158" />
+        <path
+           style="fill:#000000;stroke:#ffffff;stroke-width:0.386518;stop-color:#000000"
+           id="path8174"
+           d="m 17.93446,18.864908 c -0.317196,0.362088 -0.457695,0.751464 -0.554943,1.216224 -0.04292,0.339546 0.02112,0.675589 0.283028,0.91525 0.05251,0.04803 0.113694,0.08559 0.170532,0.128386 0.32682,0.198594 0.663961,0.379723 0.983167,0.590803 0.113984,0.08661 0.31422,0.160172 0.336503,0.321427 -0.0085,0.01011 -0.01488,0.02258 -0.02557,0.03033 -0.01875,0.01356 -0.08011,0.04601 -0.0613,0.03253 0.06781,-0.04866 0.156694,-0.07306 0.208739,-0.138326 0.02831,-0.03551 -0.08654,0.02772 -0.130276,0.03992 -0.112245,0.0313 -0.162801,0.0403 -0.275935,0.06445 0,0 -0.280458,0.212751 -0.280458,0.212751 v 0 c 0.370246,-0.07626 0.433577,-0.09562 0.809775,-0.309521 0.02168,-0.01233 0.04165,-0.02923 0.05601,-0.04963 0.01024,-0.01457 0.01005,-0.0342 0.01507,-0.05129 -0.04159,-0.171619 -0.220547,-0.252636 -0.356273,-0.342617 -0.320772,-0.208575 -0.658434,-0.388944 -0.985912,-0.586419 -0.05498,-0.04113 -0.114081,-0.07727 -0.164947,-0.123385 -0.255005,-0.231198 -0.31592,-0.555123 -0.272843,-0.884134 0.01855,-0.08573 0.03208,-0.172678 0.05554,-0.257182 0.09758,-0.351202 0.275201,-0.677836 0.519229,-0.948282 0,0 -0.329062,0.138721 -0.329062,0.138721 z" />
+        <path
+           style="fill:#000000;stroke:#ffffff;stroke-width:0.386518;stop-color:#000000"
+           id="path8176"
+           d="m 21.304842,18.898089 c -0.249439,0.263311 -0.490492,0.529755 -0.688176,0.834668 -0.123686,0.21819 -0.196931,0.458268 -0.08231,0.697318 0.02263,0.04723 0.05504,0.08912 0.08256,0.133681 0.219967,0.277113 0.551136,0.421417 0.846378,0.601715 0.101713,0.08564 0.324135,0.165286 0.346012,0.321442 0.0071,0.05154 -0.02779,0.09519 -0.05077,0.135485 -0.01875,0.02017 -0.03743,0.04034 -0.05614,0.06051 0,0 0.327555,-0.138926 0.327555,-0.138926 v 0 c 0.01759,-0.02285 0.03517,-0.0457 0.05276,-0.06855 0.01121,-0.02665 0.02748,-0.05171 0.03378,-0.07995 0.04592,-0.206396 -0.230365,-0.324465 -0.35952,-0.419726 -0.290797,-0.177002 -0.617405,-0.318677 -0.836522,-0.58844 -0.02615,-0.04236 -0.05717,-0.08208 -0.07844,-0.127089 -0.10865,-0.229902 -0.0234,-0.46212 0.09533,-0.668157 0.199984,-0.304405 0.444496,-0.569677 0.695636,-0.83248 0,0 -0.328135,0.1385 -0.328135,0.1385 z" />
+        <path
+           style="fill:#000000;stroke:#ffffff;stroke-width:0.386518;stop-color:#000000"
+           id="path8178"
+           d="m 25.105032,18.961768 c -0.42718,0.212041 -0.83399,0.433957 -1.153969,0.791036 -0.23052,0.321345 -0.05425,0.550478 0.166589,0.813167 0.148384,0.204324 0.465832,0.368417 0.583623,0.584992 -0.0025,0.02133 0,0.04391 -0.0073,0.064 -0.05591,0.147776 -0.317389,0.341261 -0.439877,0.433454 -0.09543,0.06621 -0.180291,0.143118 -0.260011,0.226941 0,0 0.327807,-0.13624 0.327807,-0.13624 v 0 c 0.08061,-0.08031 0.165584,-0.154933 0.258638,-0.22091 0.129986,-0.101313 0.395544,-0.291488 0.431761,-0.463985 0.0056,-0.02647 -0.0019,-0.05407 -0.0021,-0.08111 -0.134451,-0.231595 -0.432166,-0.370262 -0.594079,-0.586324 -0.212701,-0.256156 -0.373821,-0.464555 -0.141833,-0.769578 0.103819,-0.112135 0.124594,-0.142966 0.249633,-0.240857 0.05282,-0.04136 0.123299,-0.06304 0.164425,-0.116052 0.02824,-0.0364 -0.159014,0.09166 -0.123125,0.06279 0.0543,-0.04368 0.190804,-0.104178 0.261112,-0.137105 0,0 0.278834,-0.224219 0.278834,-0.224219 z" />
+      </g>
+    </g>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.689158;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect14213-1-0-12-5"
+       width="160.5889"
+       height="235.65984"
+       x="12.844579"
+       y="40.995583" />
+    <g
+       id="g12181"
+       transform="matrix(0.03993487,0,0,0.03993487,175.46374,16.689347)">
+      <g
+         id="g12119"
+         transform="translate(1,1)">
+        <g
+           id="g12117">
+          <g
+             id="g12115">
+            <path
+               id="path12105"
+               d="m 502.467,493.932 h -8.533 V 383 331.8 212.333 41.666 c 0,-5.12 -3.413,-8.533 -8.533,-8.533 h -8.533 V 7.533 C 476.868,2.413 473.455,-1 468.335,-1 H 357.4 c -5.12,0 -8.533,3.413 -8.533,8.533 v 25.6 h -8.533 c -5.12,0 -8.533,3.413 -8.533,8.533 v 151.637 l -68.267,-61.44 V 101.4 h 8.533 c 5.12,0 8.533,-3.413 8.533,-8.533 0,-5.12 -3.413,-8.533 -8.533,-8.533 h -8.533 V 75.8 c 0,-5.12 -3.413,-8.533 -8.533,-8.533 -5.12,0 -8.533,3.413 -8.533,8.533 v 8.533 h -8.533 c -5.12,0 -8.533,3.413 -8.533,8.533 0,5.12 3.413,8.533 8.533,8.533 h 8.533 v 31.232 l -68.267,61.44 V 41.666 c 0,-5.12 -3.413,-8.533 -8.533,-8.533 h -8.533 V 7.533 C 161.135,2.413 157.722,-1 152.602,-1 H 41.667 c -5.12,0 -8.533,3.413 -8.533,8.533 v 25.6 H 24.6 c -5.12,0 -8.533,3.413 -8.533,8.533 V 212.333 331.799 383 493.933 H 7.533 c -5.12,0 -8.533,3.413 -8.533,8.533 0,5.12 3.413,8.534 8.533,8.534 h 17.067 51.2 85.333 51.2 85.333 51.2 85.334 51.2 17.067 c 5.12,0 8.533,-3.413 8.533,-8.533 0,-5.12 -3.413,-8.535 -8.533,-8.535 z M 365.933,16.067 v 0 H 459.8 V 33.134 H 365.933 Z M 357.4,50.2 h 110.933 8.533 V 203.8 H 442.733 V 84.333 c 0,-5.12 -3.413,-8.533 -8.533,-8.533 -5.12,0 -8.533,3.413 -8.533,8.533 V 203.8 H 408.6 V 84.333 c 0,-5.12 -3.413,-8.533 -8.533,-8.533 -5.12,0 -8.533,3.413 -8.533,8.533 V 203.8 H 348.867 V 50.2 Z M 255,146.627 318.147,203.8 H 191.853 Z m -76.8,74.24 h 153.6 v 102.4 H 178.2 Z m 0,119.466 h 153.6 v 34.133 H 178.2 Z M 50.2,16.067 h 93.867 V 33.134 H 50.2 Z M 33.133,50.2 h 8.533 110.934 8.533 V 203.8 H 118.466 V 84.333 c 0,-5.12 -3.413,-8.533 -8.533,-8.533 -5.12,0 -8.533,3.413 -8.533,8.533 V 203.8 H 84.333 V 84.333 c 0,-5.12 -3.413,-8.533 -8.533,-8.533 -5.12,0 -8.533,3.413 -8.533,8.533 V 203.8 H 33.133 Z m 0,170.667 h 128 v 102.4 h -42.667 v -34.133 c 0,-5.12 -3.413,-8.533 -8.533,-8.533 -5.12,0 -8.533,3.413 -8.533,8.533 v 34.133 H 84.333 v -34.133 c 0,-5.12 -3.413,-8.533 -8.533,-8.533 -5.12,0 -8.533,3.413 -8.533,8.533 v 34.133 H 33.133 Z m 0,119.466 h 128 v 34.133 h -128 z M 152.6,493.932 H 127 v -17.067 c 0,-5.12 -3.413,-8.533 -8.533,-8.533 -5.12,0 -8.533,3.413 -8.533,8.533 v 17.067 h -25.6 v -5.973 c 0,-20.48 9.387,-39.253 25.6,-52.053 l 8.533,-6.827 8.533,6.827 c 16.213,12.8 25.6,31.573 25.6,52.053 z m 136.533,0 h -25.6 v -17.067 c 0,-5.12 -3.413,-8.533 -8.533,-8.533 -5.12,0 -8.533,3.413 -8.533,8.533 v 17.067 h -25.6 v -5.973 c 0,-20.48 9.387,-39.253 25.6,-52.053 l 8.533,-6.827 8.533,6.827 c 16.213,12.8 25.6,31.573 25.6,52.053 z m 136.534,0 h -25.6 v -17.067 c 0,-5.12 -3.413,-8.533 -8.533,-8.533 -5.12,0 -8.533,3.413 -8.533,8.533 v 17.067 h -25.6 v -5.973 c 0,-20.48 9.387,-39.253 25.6,-52.053 l 8.533,-6.827 8.533,6.827 c 16.213,12.8 25.6,31.573 25.6,52.053 z m 51.199,0 h -34.133 v -5.973 c 0,-25.6 -11.093,-49.493 -31.573,-65.707 l -14.507,-11.093 c -2.56,-2.56 -6.827,-2.56 -10.24,0 l -14.507,11.093 c -20.48,16.213 -31.573,40.107 -31.573,65.707 v 5.973 H 306.2 v -5.973 c 0,-25.6 -11.093,-49.493 -31.573,-65.707 L 260.12,411.159 c -2.56,-2.56 -6.827,-2.56 -10.24,0 l -14.507,11.093 c -20.48,16.213 -31.573,40.107 -31.573,65.707 v 5.973 h -34.133 v -5.973 c 0,-25.6 -11.093,-49.493 -31.573,-65.707 l -14.507,-11.093 c -2.56,-2.56 -6.827,-2.56 -10.24,0 L 98.84,422.253 C 78.36,438.466 67.267,462.36 67.267,487.96 v 5.973 H 33.133 v -102.4 h 136.533 170.667 136.533 z m 0.001,-119.466 h -128 v -34.133 h 128 z m 0,-51.2 h -34.133 v -34.133 c 0,-5.12 -3.413,-8.533 -8.533,-8.533 -5.12,0 -8.533,3.413 -8.533,8.533 v 34.133 H 408.6 v -34.133 c 0,-5.12 -3.413,-8.533 -8.533,-8.533 -5.12,0 -8.533,3.413 -8.533,8.533 v 34.133 h -42.667 v -102.4 h 128 z" />
+            <path
+               id="path12107"
+               d="m 255,229.398 c -23.893,0 -42.667,19.627 -42.667,42.667 0,23.041 18.774,42.667 42.667,42.667 23.893,0 42.667,-19.627 42.667,-42.667 0,-23.893 -18.773,-42.667 -42.667,-42.667 z m 0,68.269 c -13.653,0 -25.6,-11.947 -25.6,-25.6 0,-14.507 11.093,-25.6 25.6,-25.6 14.507,0 25.6,11.093 25.6,25.6 0,13.652 -11.947,25.6 -25.6,25.6 z" />
+            <path
+               id="path12109"
+               d="m 92.867,263.532 c 5.12,0 8.533,-3.413 8.533,-8.533 0,-5.12 -3.413,-8.533 -8.533,-8.533 -5.12,0 -8.533,3.413 -8.533,8.533 0,5.121 3.413,8.533 8.533,8.533 z" />
+            <path
+               id="path12111"
+               d="m 255,263.534 c -5.12,0 -8.533,3.413 -8.533,8.533 0,5.12 3.413,8.533 8.533,8.533 5.12,0 8.533,-3.413 8.533,-8.533 0,-5.12 -3.413,-8.533 -8.533,-8.533 z" />
+            <path
+               id="path12113"
+               d="m 417.133,263.532 c 5.12,0 8.533,-3.413 8.533,-8.533 0,-5.12 -3.413,-8.533 -8.533,-8.533 -5.12,0 -8.533,3.413 -8.533,8.533 0,5.121 3.413,8.533 8.533,8.533 z" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g12121" />
+      <g
+         id="g12123" />
+      <g
+         id="g12125" />
+      <g
+         id="g12127" />
+      <g
+         id="g12129" />
+      <g
+         id="g12131" />
+      <g
+         id="g12133" />
+      <g
+         id="g12135" />
+      <g
+         id="g12137" />
+      <g
+         id="g12139" />
+      <g
+         id="g12141" />
+      <g
+         id="g12143" />
+      <g
+         id="g12145" />
+      <g
+         id="g12147" />
+      <g
+         id="g12149" />
+    </g>
+    <g
+       id="g15433-3"
+       transform="matrix(0.92254231,0,0,0.92254231,-1390.1748,5.3951854)">
+      <rect
+         style="vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.499988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         id="rect21431-4-3"
+         width="59.117874"
+         height="21.537825"
+         x="-97.583801"
+         y="1697.5956"
+         transform="rotate(-90)" />
+      <text
+         xml:space="preserve"
+         style="font-size:9.17754px;line-height:8.67169px;font-family:Lora;-inkscape-font-specification:'Lora, Normal';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;stroke-width:0.314046;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-94.031631"
+         y="1706.8461"
+         id="text14423-66-3"
+         transform="rotate(-90)"><tspan
+           id="tspan14421-0-7"
+           x="-94.031631"
+           y="1706.8461"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.17754px;font-family:Satisfy;-inkscape-font-specification:Satisfy;fill:#000000;stroke:none;stroke-width:0.314046">October 6, 1858</tspan></text>
+      <text
+         transform="rotate(-90)"
+         id="text14423-66-7-3"
+         y="1715.7189"
+         x="-89.701637"
+         style="font-size:8.41274px;line-height:8.67169px;font-family:Lora;-inkscape-font-specification:'Lora, Normal';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;stroke-width:0.265316;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.41274px;font-family:Satisfy;-inkscape-font-specification:Satisfy;fill:#000000;stroke:none;stroke-width:0.265316"
+           y="1715.7189"
+           x="-89.701637"
+           id="tspan14421-0-90-2">Paris, France</tspan></text>
+    </g>
+    <g
+       id="g62823-3-3"
+       transform="translate(-5.7220459e-6,-3.1781006)">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+         id="rect57043-6-6"
+         width="4.8937645"
+         height="4.8937645"
+         x="102.55312"
+         y="288.3031" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.88056px;line-height:4.04461px;font-family:Lora;-inkscape-font-specification:'Lora Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;stroke-width:0.175823px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="103.24988"
+         y="292.13922"
+         id="text59103-7-7"><tspan
+           sodipodi:role="line"
+           id="tspan59101-5-5"
+           x="103.24988"
+           y="292.13922"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.88056px;font-family:Lora;-inkscape-font-specification:'Lora Medium';fill:#000000;stroke:none;stroke-width:0.175823px">14</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       id="text16786"
+       style="fill:none;stroke:black;stroke-opacity:1;stroke-width:0.26458333px;stroke-linejoin:miter;stroke-linecap:butt;font-family:Lora;font-size:6.35px;line-height:6.61458333px;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Lora;white-space:pre;shape-inside:url(#rect16788);" />
+    <g
+       id="g22040"
+       transform="translate(-0.00107166)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.71317px;line-height:8.98137px;font-family:'Bilbo Swash Caps';-inkscape-font-specification:'Bilbo Swash Caps, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect14213-1-0-12-4);fill:#000000;stroke:none;stroke-width:0.0131258px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         x="1737.7679"
+         y="28.399433"
+         id="text13329-2-6"
+         transform="matrix(0.89073299,0,0,0.89073299,-1337.887,9.7990417)"><tspan
+           x="1521.25"
+           y="44.553196"><tspan
+             dx="0 0 0 0 2.8941226 0 0 0 0 0 0 2.8941207 0 0 0 0 0 0 2.8941245 0 2.8941245 0 0 0 2.8941169 0 0 0 0 0 2.8941169"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.71317px;font-family:'La Belle Aurore';-inkscape-font-specification:'La Belle Aurore';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.0131258px">you would, within a few days, communicate </tspan></tspan><tspan
+           x="1521.25"
+           y="54.398633"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.71317px;font-family:'La Belle Aurore';-inkscape-font-specification:'La Belle Aurore';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.0131258px">with </tspan><tspan
+             dx="1.8339248 0 0 1.8339267 0 0 0 1.8339248 0 0 0 1.833921 0 0 0 1.8339248 0 0 0 0 0 1.8339286 0 0 0 0 0 1.833921 0 1.8339362 0 0 0 0 1.8339362"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.71317px;font-family:'La Belle Aurore';-inkscape-font-specification:'La Belle Aurore';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.0131258px">me and fix the exact date. I have not </tspan></tspan><tspan
+           x="1521.25"
+           y="64.244069"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.71317px;font-family:'La Belle Aurore';-inkscape-font-specification:'La Belle Aurore';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.0131258px">heard </tspan><tspan
+             dx="2.6402698 0 0 0 0 0 0 0 2.6402698 0 0 0 0 2.6402659 0 0 0 0 2.6402698 0 0 0 0 0 0 2.6402698 0 0 0 0 0 0 0 0 0 0 2.6402774"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.71317px;font-family:'La Belle Aurore';-inkscape-font-specification:'La Belle Aurore';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.0131258px">further from you, either privately, by </tspan></tspan><tspan
+           x="1521.25"
+           y="74.089505"><tspan
+             dx="0 0 0 0 0 0 0 0 0.33277273"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.71317px;font-family:'La Belle Aurore';-inkscape-font-specification:'La Belle Aurore';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.0131258px">letter, or </tspan><tspan
+             dx="0.33277082 0 0 0 0 0 0 0 0.33277273 0 0 0 0.33277273 0 0 0 0 0 0 0 0.3327651 0 0 0.33277273 0 0 0 0.33277273"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.71317px;font-family:'La Belle Aurore';-inkscape-font-specification:'La Belle Aurore';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.0131258px">through the columns of the Illustrated </tspan></tspan><tspan
+           x="1521.25"
+           y="83.934941"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.71317px;font-family:'La Belle Aurore';-inkscape-font-specification:'La Belle Aurore';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.0131258px">London </tspan><tspan
+             dx="0.86215544 0 0 0 0 0 0.86215925 0.86215162 0.86215544 0.86215544 0.86215925 0.86215162 0.86215544 0.86215544 0.86215925 0.86215925 0.86215162 0.86215925 0.86215925 0.86215925 0.86215162 0.86215162 0.86215925 0.86215162 0.86214399 0.86215925 0.86215162 0.86216688 0.86215162"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.71317px;font-family:'La Belle Aurore';-inkscape-font-specification:'La Belle Aurore';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.0131258px">News.                       
+</tspan></tspan><tspan
+           x="1521.25"
+           y="93.780377"><tspan
+             dx="0 0.61843014 0 0.61843061 0 0 0 0 0 0 0 0 0 0.61843252 0 0 0 0 0 0 0 0 0.61842871 0 0 0.61842871 0 0 0 0.61842871 0 0 0 0 0 0.61842108"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.71317px;font-family:'La Belle Aurore';-inkscape-font-specification:'La Belle Aurore';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.0131258px"> A statement appeared in the Chess department </tspan></tspan><tspan
+           x="1521.25"
+           y="103.62581"><tspan
+             dx="0 0 0 1.1197352 0 0 0 0 1.1197352 0 0 0 0 0 0 0 1.1197333 0 1.1197333 0 0 0 1.1197333 0 0 0 0 0 1.119741 0 0 0 0 0 0 1.1197333 0 0 0 0 1.1197333"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.71317px;font-family:'La Belle Aurore';-inkscape-font-specification:'La Belle Aurore';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.0131258px">of that Journal a few weeks since, that “Mr. </tspan></tspan><tspan
+           x="1521.25"
+           y="113.47125"><tspan
+             dx="0 0 0 0 0 0 0 2.5211463 0 0 0 2.5211463 0 0 0 0 2.5211463 0 0 2.5211463 0 0 0 0 0 0 2.5211463 0 0 0 0 0 0 0 0 0 0 2.5211463"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.71317px;font-family:'La Belle Aurore';-inkscape-font-specification:'La Belle Aurore';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.0131258px">Morphy had come to Europe unprovided with </tspan></tspan><tspan
+           x="1521.25"
+           y="123.31669"><tspan
+             dx="0 0 0 0 0 0 0 0 0.92571783 0 0 0.92571783 0 0 0 0 0 0 0 0 0 0.92571783 0 0 0 0.92571783 0 0 0 0 0 0 0 0 0 0.92571783 0 0 0 0 0 0.92571783"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.71317px;font-family:'La Belle Aurore';-inkscape-font-specification:'La Belle Aurore';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.0131258px">backers or seconds;” the inference being obvious </tspan></tspan><tspan
+           x="1521.25"
+           y="133.16212"><tspan
+             dx="0 0 0 0 0 0.73059797 0 0 0.73059607 0 0 0 0 0.73059607 0 0 0.73059988 0 0 0 0 0 0.73059607 0 0 0 0.73060369 0 0 0 0.73059607 0 0 0 0 0 0 0.73060369 0 0 0.73060369"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.71317px;font-family:'La Belle Aurore';-inkscape-font-specification:'La Belle Aurore';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.0131258px">that my want of funds was the reason of our </tspan></tspan><tspan
+           x="1521.25"
+           y="143.00756"><tspan
+             dx="0 0 0 0 0 0 1.354795 0 0 0 1.354795 0 0 0 0 0 0 1.354795 0 0 0 0 0 0 1.354795 0 0 1.354795 0 0 0 1.354795 0 0 0 1.354795 0 0 0 1.354795"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.71317px;font-family:'La Belle Aurore';-inkscape-font-specification:'La Belle Aurore';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.0131258px">match not taking place. As you are the editor </tspan></tspan><tspan
+           x="1521.25"
+           y="152.853"><tspan
+             dx="0 0 0 2.0659165 0 0 0 0 2.0659175 0 0 0 0 0 0 0 0 0 0 2.0659156 0 0 2.0659156 0 0 0 2.0659156 0 0 0 0 0 0 0 0 0 0 0 2.0659156"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.71317px;font-family:'La Belle Aurore';-inkscape-font-specification:'La Belle Aurore';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.0131258px">of that department of the Illustrated London </tspan></tspan><tspan
+           x="1521.25"
+           y="162.69844"><tspan
+             dx="0 0 0 0 0 0 1.2569423 0 1.2569442 0 0 0 0 1.2569404 0 0 0 0 1.2569404 0 0 0 0 1.2569404 0 1.2569404 0 0 0 0 0 0 0 0 0 1.2569404 0 0 0 1.2569404"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.71317px;font-family:'La Belle Aurore';-inkscape-font-specification:'La Belle Aurore';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.0131258px">News, I felt hurt that a gentleman who had </tspan></tspan><tspan
+           x="1521.25"
+           y="172.54389"><tspan
+             dx="0 0 0 0 0 0 0 0.92596769 0 0 0 0 0 0 0 0 0.92596579 0 0 0.9259696 0 0 0.9259696 0 0 0 0.9259696 0 0 0 0 0 0.9259696 0 0 0 0.92597723"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.71317px;font-family:'La Belle Aurore';-inkscape-font-specification:'La Belle Aurore';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.0131258px">always received me at his club, and elsewhere, </tspan></tspan><tspan
+           x="1521.25"
+           y="182.38933"><tspan
+             dx="0 0 0 0 0 1.0505157 0 0 0 0 0 1.0505118 0 0 0 0 0 0 0 0 1.0505195 0 0 0 1.0505118 0 0 0 0 0 0 0 0 0 1.0505195 0 0 0 0 0 0 1.0505042"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.71317px;font-family:'La Belle Aurore';-inkscape-font-specification:'La Belle Aurore';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.0131258px">with great kindness and courtesy, should allow </tspan></tspan><tspan
+           x="1521.25"
+           y="192.23478"><tspan
+             dx="0 0 0 4.5021605 0 0 0 0 0 0 0 0 0 0 0 4.5021605 0 4.5021605 0 0 0 0 0 0 0 0 0 4.5021567 0 0 4.5021567 0 0 4.5021644 0 0 0 0 4.5021644"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.71317px;font-family:'La Belle Aurore';-inkscape-font-specification:'La Belle Aurore';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.0131258px">so prejudicial a statement to be made in </tspan></tspan><tspan
+           x="1521.25"
+           y="202.08022"><tspan
+             dx="0 0 0 0 0 0 0 0 0 0 0.30925894 0 0 0.30925512 0 0 0 0 0 0 0 0.30925512 0 0 0 0 0.30926275 0 0 0 0 0 0.30926275 0 0 0.30925512 0 0 0 0.30924749 0 0 0 0 0 0 0 0 0.30926275"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.71317px;font-family:'La Belle Aurore';-inkscape-font-specification:'La Belle Aurore';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.0131258px">reference to me—one, too, which is not strictly in </tspan></tspan><tspan
+           x="1521.25"
+           y="211.92566"><tspan
+             dx="0 0 0 0 0 0 0 0 0 0 0 -0.32656717 0 0 0 0 -0.32656717 0 0 0 0 0 -0.32657099 -0.32656336 -0.32657099 -0.32656336 -0.32657099 -0.32656336 -0.32657099 -0.32657099 -0.32656336 -0.32657099 -0.32656336 -0.32657099 -0.32656336 -0.32657099 -0.32656336 -0.32657099 -0.32657099 -0.32657099 -0.32655573 -0.32657099 -0.32657099 -0.32657099 -0.32655573 -0.32657099 -0.32657099"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.71317px;font-family:'La Belle Aurore';-inkscape-font-specification:'La Belle Aurore';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.0131258px">accordance with fact.                         
+</tspan></tspan><tspan
+           x="1521.25"
+           y="221.77111"><tspan
+             dx="0 1.8249149 0 0 0 0 0 0 1.8249145 0 0 1.8249145 0 0 1.8249145 0 0 0 0 0 0 1.8249183 0 0 0 0 1.8249183 0 1.8249183 0 0 0 0 1.824903"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.71317px;font-family:'La Belle Aurore';-inkscape-font-specification:'La Belle Aurore';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.0131258px"> Permit me to repeat what I have invariably </tspan></tspan><tspan
+           x="1521.25"
+           y="231.61655"><tspan
+             dx="0 0 0 0 0 0 0 0 0 0.70959616 0 0 0.70959997 0 0 0 0 0 0.70959234 0 0 0 0 0 0.70959234 0 0 0 0 0 0 0 0 0 0.70959234 0 0.7096076 0 0 0 0 0.70959234"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.71317px;font-family:'La Belle Aurore';-inkscape-font-specification:'La Belle Aurore';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.0131258px">declared in every Chess community I have had </tspan></tspan><tspan
+           x="1521.25"
+           y="241.46199"><tspan
+             dx="0 0 0 0 4.3552651 0 0 0 0 0 4.3552642 0 0 4.355268 0 0 0 0 0 0 0 0 0 4.355268 0 0 0 0 4.355268 0 4.3552756 0 0 4.355268 0 0 0 4.355268"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.71317px;font-family:'La Belle Aurore';-inkscape-font-specification:'La Belle Aurore';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.0131258px">the honor of entering, that I am not a </tspan></tspan><tspan
+           x="1521.25"
+           y="251.30744"><tspan
+             dx="0 0 0 0 0 0 0 0 0 0 0 0 0 3.888185 0 0 0 0 0 0 0 0 0 0 0 3.8881812 0 3.8881888 0 0 0 0 0 3.8881812 0 0 0 0 0 0 3.8881812"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.71317px;font-family:'La Belle Aurore';-inkscape-font-specification:'La Belle Aurore';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.0131258px">professional player—that I never wished to </tspan></tspan><tspan
+           x="1521.25"
+           y="261.15288"><tspan
+             dx="0 0 0 0 0 4.0147185 0 0 0 4.0147185 0 0 0 0 0 4.0147223 0 4.0147223 0 0 0 0 0 0 0 4.0147147 0 0 0 4.0147147 0 0 0 0 0 4.0147223"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.71317px;font-family:'La Belle Aurore';-inkscape-font-specification:'La Belle Aurore';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.0131258px">make any skill I possess the means of </tspan></tspan><tspan
+           x="1521.25"
+           y="270.99833"><tspan
+             dx="0 0 0 0 0 0 0 0 0 0 5.0091357 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5.0091376 0 0 0 0 5.00913 0 0 5.0091224"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.71317px;font-family:'La Belle Aurore';-inkscape-font-specification:'La Belle Aurore';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.0131258px">pecuniary advancement—and that my earnest </tspan></tspan><tspan
+           x="1521.25"
+           y="280.84375"><tspan
+             dx="0 0 0 0 0 0 0 0.17940474 0 0 0.17940664 0 0 0 0 0 0.17940283 0 0 0.17940664 0 0 0 0 0.17941046 0 0 0 0.17940283 0 0 0 0.17941046 0 0 0 0 0 0.17941046 0 0 0 0.17941046"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.71317px;font-family:'La Belle Aurore';-inkscape-font-specification:'La Belle Aurore';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.0131258px">desire is never to play for any stake but honor. </tspan></tspan><tspan
+           x="1521.25"
+           y="290.68918"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.71317px;font-family:'La Belle Aurore';-inkscape-font-specification:'La Belle Aurore';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.0131258px">My friends in New Orleans, however,</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.71317px;line-height:8.98137px;font-family:'Bilbo Swash Caps';-inkscape-font-specification:'Bilbo Swash Caps, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect14213-1-0-12-4-7);fill:#000000;stroke:none;stroke-width:0.0131258px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         x="1737.7679"
+         y="28.399433"
+         id="text13329-2-6-5"
+         transform="matrix(0.87286154,0,0,0.87286154,-1192.7335,229.74379)"><tspan
+           x="1521.25"
+           y="44.553196"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.71317px;font-family:'La Belle Aurore';-inkscape-font-specification:'La Belle Aurore';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.0131258px"> subscribed </tspan></tspan></text>
+    </g>
+  </g>
+</svg>

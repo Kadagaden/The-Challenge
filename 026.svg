@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg19502"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="026.svg"
+   inkscape:export-filename="/home/spcmd/Projects/Morphy-Staunton_Comic/_TEMPLATE.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <title
+     id="title49034">The Challenge: An illustrated story of Paul Morphy and Howard Staunton</title>
+  <defs
+     id="defs19496">
+    <pattern
+       patternTransform="matrix(10.995775,8.6493374,-6.9781797,6.3090477,-19.325051,-80.075558)"
+       id="pattern20617"
+       xlink:href="#Checkerboard" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="2"
+       patternTransform="translate(0,0) scale(10,10)"
+       id="Checkerboard">
+      <rect
+         style="fill:black;stroke:none"
+         x="0"
+         y="0"
+         width="1"
+         height="1"
+         id="rect1884" />
+      <rect
+         style="fill:black;stroke:none"
+         x="1"
+         y="1"
+         width="1"
+         height="1"
+         id="rect1886" />
+    </pattern>
+    <linearGradient
+       xlink:href="#SvgjsLinearGradient3371"
+       id="linearGradient14041-0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-52)"
+       x1="127.212"
+       y1="82.295998"
+       x2="126.463"
+       y2="83.189003" />
+    <linearGradient
+       id="SvgjsLinearGradient3371"
+       x1="127.212"
+       y1="82.295998"
+       x2="126.463"
+       y2="83.189003"
+       gradientTransform="translate(-52)"
+       gradientUnits="userSpaceOnUse"
+       class="svga-on-canvas-eyesiris-gradient-left-6">
+      <stop
+         id="SvgjsStop3372"
+         stop-opacity="1"
+         stop-color="#ffffff"
+         offset="0" />
+      <stop
+         id="SvgjsStop3373"
+         stop-opacity="0"
+         stop-color="#ffffff"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       y2="83.189003"
+       x2="126.463"
+       y1="82.295998"
+       x1="127.212"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient9203-3-9-3-7"
+       xlink:href="#SvgjsLinearGradient3394" />
+    <linearGradient
+       id="SvgjsLinearGradient3394"
+       x1="127.212"
+       y1="82.295998"
+       x2="126.463"
+       y2="83.189003"
+       gradientUnits="userSpaceOnUse"
+       class="svga-on-canvas-eyesiris-gradient-right-6">
+      <stop
+         id="SvgjsStop3395"
+         stop-opacity="1"
+         stop-color="#ffffff"
+         offset="0" />
+      <stop
+         id="SvgjsStop3396"
+         stop-opacity="0"
+         stop-color="#ffffff"
+         offset="1" />
+    </linearGradient>
+    <pattern
+       patternTransform="matrix(10.995775,8.6493374,-6.9781797,6.3090477,-19.325051,-80.075558)"
+       id="pattern20617-3"
+       xlink:href="#Checkerboard-6" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="2"
+       patternTransform="translate(0,0) scale(10,10)"
+       id="Checkerboard-6">
+      <rect
+         style="fill:black;stroke:none"
+         x="0"
+         y="0"
+         width="1"
+         height="1"
+         id="rect1884-7" />
+      <rect
+         style="fill:black;stroke:none"
+         x="1"
+         y="1"
+         width="1"
+         height="1"
+         id="rect1886-5" />
+    </pattern>
+    <linearGradient
+       xlink:href="#SvgjsLinearGradient3371"
+       id="linearGradient14041-0-3"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-52)"
+       x1="127.212"
+       y1="82.295998"
+       x2="126.463"
+       y2="83.189003" />
+    <linearGradient
+       y2="83.189003"
+       x2="126.463"
+       y1="82.295998"
+       x1="127.212"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient9203-3-9-3-7-2"
+       xlink:href="#SvgjsLinearGradient3394" />
+    <rect
+       y="3.7521408"
+       x="1101.7798"
+       height="97.981018"
+       width="199.84012"
+       id="rect14213-1-6-2-4-4-1-2-5"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742" />
+    <rect
+       y="3.7521408"
+       x="1101.7798"
+       height="97.981018"
+       width="199.84012"
+       id="rect28243"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect14213-1-6-2-9-0-7-9"
+       width="90.843178"
+       height="11.416029"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect28246"
+       width="90.843178"
+       height="11.416029"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       y="3.7521408"
+       x="1101.7798"
+       height="11.416029"
+       width="90.843178"
+       id="rect14213-1-6-2-9-0-7-9-7"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742" />
+    <rect
+       y="3.7521408"
+       x="1101.7798"
+       height="11.416029"
+       width="90.843178"
+       id="rect28249"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect14213-1-6-2-9-0-7-9-1-8"
+       width="11.227488"
+       height="12.016135"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect28252"
+       width="11.227488"
+       height="12.016135"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       y="3.7521408"
+       x="1101.7798"
+       height="12.016135"
+       width="11.227488"
+       id="rect14213-1-6-2-9-0-7-9-1-8-3"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742" />
+    <rect
+       y="3.7521408"
+       x="1101.7798"
+       height="12.016135"
+       width="11.227488"
+       id="rect28255"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect14213-1-6-2-9-0-7-9-1-8-3-8"
+       width="11.227488"
+       height="12.016135"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect28258"
+       width="11.227488"
+       height="12.016135"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect14213-1-6-2-9-0-7-9-1-8-3-6"
+       width="11.227488"
+       height="12.016135"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect28261"
+       width="11.227488"
+       height="12.016135"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       y="3.7521408"
+       x="1101.7798"
+       height="12.016135"
+       width="11.227488"
+       id="rect14213-1-6-2-9-0-7-9-1-8-33"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742" />
+    <rect
+       y="3.7521408"
+       x="1101.7798"
+       height="12.016135"
+       width="11.227488"
+       id="rect28264"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect14213-1-6-2-9-0-7-9-1-8-33-6"
+       width="11.227488"
+       height="12.016135"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect28267"
+       width="11.227488"
+       height="12.016135"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       y="3.7521408"
+       x="1101.7798"
+       height="12.016135"
+       width="11.227488"
+       id="rect14213-1-6-2-9-0-7-9-1-8-33-6-4"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742" />
+    <rect
+       y="3.7521408"
+       x="1101.7798"
+       height="12.016135"
+       width="11.227488"
+       id="rect28270"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect14213-1-6-2-9-0-7-9-1-8-33-6-4-8"
+       width="11.227488"
+       height="12.016135"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect28273"
+       width="11.227488"
+       height="12.016135"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect14213-1-6-2-4-4-1-2-5-3"
+       width="74.995674"
+       height="87.702873"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect28276"
+       width="74.995674"
+       height="87.702873"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect28278"
+       width="74.995674"
+       height="87.702873"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect28280"
+       width="74.995674"
+       height="87.702873"
+       x="1101.7798"
+       y="3.7521408" />
+    <pattern
+       patternTransform="matrix(10.995775,8.6493374,-6.9781797,6.3090477,-19.325051,-80.075558)"
+       id="pattern20617-3-3"
+       xlink:href="#Checkerboard-6-6" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="2"
+       patternTransform="translate(0,0) scale(10,10)"
+       id="Checkerboard-6-6">
+      <rect
+         style="fill:black;stroke:none"
+         x="0"
+         y="0"
+         width="1"
+         height="1"
+         id="rect1884-7-7" />
+      <rect
+         style="fill:black;stroke:none"
+         x="1"
+         y="1"
+         width="1"
+         height="1"
+         id="rect1886-5-5" />
+    </pattern>
+    <linearGradient
+       y2="131"
+       x2="100"
+       y1="171"
+       x1="100"
+       gradientTransform="matrix(2.0862461,0,0,2.0862461,306.57994,-1853.8039)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient18225"
+       xlink:href="#SvgjsLinearGradient4157" />
+    <linearGradient
+       gradientTransform="matrix(2.0862461,0,0,2.0862461,306.57994,-1853.8039)"
+       id="SvgjsLinearGradient4157"
+       x1="100"
+       y1="171"
+       x2="100"
+       y2="131"
+       gradientUnits="userSpaceOnUse"
+       class="svga-on-canvas-chinshadow-gradient-single-0">
+      <stop
+         id="SvgjsStop4158"
+         stop-opacity="0.8"
+         stop-color="#f0d8d8"
+         offset="0" />
+      <stop
+         id="SvgjsStop4159"
+         stop-opacity="1"
+         stop-color="#d19292"
+         offset="0.7" />
+    </linearGradient>
+    <rect
+       y="3.7521408"
+       x="1101.7798"
+       height="293.33826"
+       width="199.28552"
+       id="rect14213-1-6-2-4"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742" />
+    <rect
+       y="3.7521408"
+       x="1101.7798"
+       height="293.33826"
+       width="199.28552"
+       id="rect25440"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect14213-1-6-2-4-9"
+       width="193.35609"
+       height="185.40877"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect25443"
+       width="199.28552"
+       height="293.33826"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.725748;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect14213-1-0-1-5"
+       width="229.3351"
+       height="201.48444"
+       x="1330.3254"
+       y="14.256724" />
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.725748;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect21731"
+       width="229.3351"
+       height="201.48444"
+       x="1330.3254"
+       y="14.256724" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#0000d8"
+     borderopacity="1"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="523.05737"
+     inkscape:cy="341.38515"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     borderlayer="false"
+     inkscape:showpageshadow="false"
+     inkscape:snap-global="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-page="true"
+     inkscape:window-width="1678"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="42"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true">
+    <sodipodi:guide
+       position="12.5,280.74703"
+       orientation="-1,0"
+       id="guide30126"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="197.5,243.70536"
+       orientation="-1,0"
+       id="guide30128"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-38.931547,284.5"
+       orientation="0,1"
+       id="guide30130"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,297"
+       orientation="0,793.70079"
+       id="guide30134" />
+    <sodipodi:guide
+       position="210,297"
+       orientation="1122.5197,0"
+       id="guide30136" />
+    <sodipodi:guide
+       position="210,0"
+       orientation="0,-793.70079"
+       id="guide30138" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-1122.5197,0"
+       id="guide30140" />
+    <sodipodi:guide
+       position="-63.122022,12.5"
+       orientation="0,1"
+       id="guide30142"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata19499">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>The Challenge: An illustrated story of Paul Morphy and Howard Staunton</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Ka (https://github.com/Ka-hu)</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="" />
+        <dc:language>English</dc:language>
+        <dc:date>2021</dc:date>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       y="0.43934786"
+       x="0.43934721"
+       height="296.12131"
+       width="209.12131"
+       id="rect14213-8"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.878694" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86721px;line-height:9.73305px;font-family:'Noto Serif';-inkscape-font-specification:'Noto Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect14213-1-6-2-4);fill:#000000;stroke:none;stroke-width:0.116466px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="1105.1421"
+       y="15.123057"
+       id="text17974-6-2-9"
+       transform="matrix(0.92468422,0,0,0.92468422,-1005.9549,7.540927)"><tspan
+         x="1101.7793"
+         y="10.582071"><tspan
+           dx="0 0 0 0 0 0.76522446 0 0 0 0 0 0 0 0 0 0 0 0.76522255 0 0 0 0 0 0 0.76522255 0 0 0 0 0 0 0.76522255 0 0 0 0.76522255 0 0 0 0.76523018 0 0 0 0 0 0.76522255 0 0 0 0 0 0 0.76522255 0 0 0 0.76522255"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86721px;font-family:Lora;-inkscape-font-specification:Lora;shape-inside:url(#rect14213-1-6-2-4)">Lord Lyttelton’s letter almost but not quite closed the public </tspan></tspan><tspan
+         x="1101.7793"
+         y="20.31954"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 2.4858189 0 0 2.485815 0 0 0 2.485815 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2.4858189 0 0 0 0 0 0 2.4858189 0 0 0 2.4858189 0 0 0 0 0 2.4858189"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86721px;font-family:Lora;-inkscape-font-specification:Lora;shape-inside:url(#rect14213-1-6-2-4)">discussion of the Morphy-Staunton match, the match for </tspan></tspan><tspan
+         x="1101.7793"
+         y="30.057009"><tspan
+           dx="0 0 0 0 0 0 1.8300114 0 0 0 0 0 0 0 0 1.8300114 0 0 0 0 0 0 0 1.8300114 0 0 0 1.8300114 0 0 0 0 0 0 0 1.8300114 0 0 0 1.8299961 0 0 0 0 1.8300114 0 0 0 0 0 0 0 1.8300114"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86721px;font-family:Lora;-inkscape-font-specification:Lora;shape-inside:url(#rect14213-1-6-2-4)">which England, Europe, and America had been waiting for </tspan></tspan><tspan
+         x="1101.7793"
+         y="39.794477"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0.40447235 0 0 0.40447426 0 0 0 0.40447426 0 0 0 0.40447044 0 0 0 0 0 0.40447426 0.40447426 0 0 0.40447426 0 0 0 0 0 0.40447426 0 0 0 0 0 0 0.40447426 0 0 0 0 0.40447426 0 0 0 0 0.40447426"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86721px;font-family:Lora;-inkscape-font-specification:Lora;shape-inside:url(#rect14213-1-6-2-4)">Staunton to set the date.  It would appear that Lord Lyttelton </tspan></tspan><tspan
+         x="1101.7793"
+         y="49.531946"><tspan
+           dx="0 0 0 0 0.028078079 0 0 0 0 0 0 0 0 0 0.028074265 0 0 0 0.028078079 0 0 0 0 0 0 0 0.028078079 0 0 0 0 0 0 0 0 0 0.028078079 0 0 0.028078079 0 0 0 0.028085709 0 0 0 0 0 0 0 0 0.028085709 0 0 0.028085709 0 0 0 0.02807045"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86721px;font-family:Lora;-inkscape-font-specification:Lora;shape-inside:url(#rect14213-1-6-2-4)">had expressed the general sentiment in the country, as did the </tspan></tspan><tspan
+         x="1101.7793"
+         y="59.269415"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86721px;font-family:Lora;-inkscape-font-specification:Lora;shape-inside:url(#rect14213-1-6-2-4)">following resolution of the Manchester Chess Club.</tspan></tspan></text>
+    <rect
+       style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.4, 0.6;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="rect11041"
+       width="184.03117"
+       height="192.86926"
+       x="12.98441"
+       y="77.387993" />
+    <g
+       id="g22006"
+       transform="translate(0,2.9209825)">
+      <text
+         xml:space="preserve"
+         style="font-size:12.4206px;line-height:12.7143px;font-family:Lora;-inkscape-font-specification:'Lora, Normal';letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke:none;stroke-width:0.364413;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="43.269058"
+         y="91.50766"
+         id="text14423-66-8-2-5-2-0"><tspan
+           id="tspan14421-0-9-6-0-9-2"
+           x="43.269058"
+           y="91.50766"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.4206px;font-family:'Underwood Champion';-inkscape-font-specification:'Underwood Champion, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.364413">November 17, 1858</tspan></text>
+      <text
+         transform="matrix(0.92468437,0,0,0.92468422,-1003.1954,95.827758)"
+         id="text17974-6-2-9-3"
+         y="15.123057"
+         x="1105.1421"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86721px;line-height:9.83046px;font-family:'Terminus (TTF)';-inkscape-font-specification:'Terminus (TTF)';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect14213-1-6-2-4-9);fill:#000000;stroke:none;stroke-width:0.116466px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         xml:space="preserve"><tspan
+           x="1101.7793"
+           y="10.953964"><tspan
+             dx="0 0.036768436 0.036768436 0 0 0 0 0 0 0 0 0 0.036771774 0 0 0 0 0.03676796 0 0 0 0 0.03676796 0 0 0 0 0 0 0 0 0.03676796"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86721px;font-family:'Underwood Champion';-inkscape-font-specification:'Underwood Champion';shape-inside:url(#rect14213-1-6-2-4-9)">  Resolved; That this meeting, while </tspan><tspan
+             dx="0.036775589"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86721px;font-family:'Underwood Champion';-inkscape-font-specification:'Underwood Champion';shape-inside:url(#rect14213-1-6-2-4-9)">recognizing </tspan></tspan><tspan
+           x="1101.7793"
+           y="21.177541"><tspan
+             dx="0 0 0 0 4.7456608 0 0 0 0 0 0 0 0 0 0 4.745657 0 0 0 0 0 4.7456608 0 0 4.7456608 0 0 0 0 0 0 0 4.7456684"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86721px;font-family:'Underwood Champion';-inkscape-font-specification:'Underwood Champion';shape-inside:url(#rect14213-1-6-2-4-9)">Mr. Staunton’s right to decline any </tspan><tspan
+             dx="4.7456684"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86721px;font-family:'Underwood Champion';-inkscape-font-specification:'Underwood Champion';shape-inside:url(#rect14213-1-6-2-4-9)">chess </tspan></tspan><tspan
+           x="1101.7793"
+           y="31.401119"><tspan
+             dx="0 0 0 0 0 0 0 0 0 0 1.3735332 0 0 0 0 0 1.3735294 0 0 1.3735294 0 0 0 0 0 1.3735294 0 0 0 0 1.3735294"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86721px;font-family:'Underwood Champion';-inkscape-font-specification:'Underwood Champion';shape-inside:url(#rect14213-1-6-2-4-9)">challenge which he might find inconvenient </tspan><tspan
+             dx="1.3735218"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86721px;font-family:'Underwood Champion';-inkscape-font-specification:'Underwood Champion';shape-inside:url(#rect14213-1-6-2-4-9)">and </tspan></tspan><tspan
+           x="1101.7793"
+           y="41.624695"><tspan
+             dx="0 0 0 0 0 0 0 0 0 0 0 0 0 1.6556149 0 0 0 0 1.6556187 0 0 0 1.655611 0 0 0 0 0 1.6556187"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86721px;font-family:'Underwood Champion';-inkscape-font-specification:'Underwood Champion';shape-inside:url(#rect14213-1-6-2-4-9)">incompatible with his other engagements, </tspan><tspan
+             dx="1.6556263"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86721px;font-family:'Underwood Champion';-inkscape-font-specification:'Underwood Champion';shape-inside:url(#rect14213-1-6-2-4-9)">deems </tspan></tspan><tspan
+           x="1101.7793"
+           y="51.848274"><tspan
+             dx="0 0 0 1.1921606 0 0 0 0 0 0 1.1921635 0 0 0 0 0 0 0 0 0 1.1921635 0 0 1.1921558 0 0 0 0 1.1921558 0 0 0 0 0 0 0 0 0 1.1921711"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86721px;font-family:'Underwood Champion';-inkscape-font-specification:'Underwood Champion';shape-inside:url(#rect14213-1-6-2-4-9)">it proper (inasmuch as Lord Lyttelton has </tspan><tspan
+             dx="1.1921711"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86721px;font-family:'Underwood Champion';-inkscape-font-specification:'Underwood Champion';shape-inside:url(#rect14213-1-6-2-4-9)">only </tspan></tspan><tspan
+           x="1101.7793"
+           y="62.071853"><tspan
+             dx="0 0 0 0 0 4.0590878 0 0 0 0 0 0 0 4.0590878 0 0 4.0590839 0 0 0 0 0 0 0 4.0590839 0 0 4.0590916 0 0 0 0 0 0 0 4.0590839 0 0 4.0590992"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86721px;font-family:'Underwood Champion';-inkscape-font-specification:'Underwood Champion';shape-inside:url(#rect14213-1-6-2-4-9)">felt himself at liberty to answer, in his </tspan></tspan><tspan
+           x="1101.7793"
+           y="72.295433"><tspan
+             dx="0 0 0 0 0 0 0 0 0.61111259 0 0 0 0 0 0 0 0 0 0.61110878 0 0 0 0.61110878 0 0 0 0 0 0 0 0 0.61110878 0 0 0 0 0 0 0.61111641 0 0 0.61111641 0 0 0 0.61111641"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86721px;font-family:'Underwood Champion';-inkscape-font-specification:'Underwood Champion';shape-inside:url(#rect14213-1-6-2-4-9)">private capacity, Mr. Morphy’s appeal to him as </tspan></tspan><tspan
+           x="1101.7793"
+           y="82.519012"><tspan
+             dx="0 0 0 0 0 0 0 0 0 0 1.3930912 0 0 1.3930912 0 0 0 1.3930912 0 0 0 0 0 0 0 1.3930912 0 0 0 0 0 1.3930912 0 0 0 0 0 0 0 0 0 0 0 0 1.3930836"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86721px;font-family:'Underwood Champion';-inkscape-font-specification:'Underwood Champion';shape-inside:url(#rect14213-1-6-2-4-9)">President of the British Chess Association) to </tspan></tspan><tspan
+           x="1101.7793"
+           y="92.742592"><tspan
+             dx="0 0 0 0 0 0 0 0 3.4083214 0 0 0 3.4083233 0 0 0 0 3.4083271 0 0 0 0 0 0 0 0 0 0 0 3.4083271 0 0 3.4083271 0 0 0 3.4083271"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86721px;font-family:'Underwood Champion';-inkscape-font-specification:'Underwood Champion';shape-inside:url(#rect14213-1-6-2-4-9)">declare its full concurrence in the opinion </tspan></tspan><tspan
+           x="1101.7793"
+           y="102.96617"><tspan
+             dx="0 0 0 0 0 0 0 0 0 0 0.039716721 0 0 0.039716721 0 0 0 0 0.039712906 0 0 0 0 0 0 0 0 0 0.039720535 0 0 0.039712906 0 0 0 0.039705276 0 0 0 0 0 0 0.039720535 0 0 0.039705276"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86721px;font-family:'Underwood Champion';-inkscape-font-specification:'Underwood Champion';shape-inside:url(#rect14213-1-6-2-4-9)">expressed by Lord Lyttelton in his letter to Mr. </tspan></tspan><tspan
+           x="1101.7793"
+           y="113.18975"><tspan
+             dx="0 0 0 0 0 0 0 0 1.5402412 0 0 1.5402431 0 0 0 1.5402431 0 0 1.5402393 0 0 0 0 0 0 1.5402393 0 0 0 0 1.5402393 0 0 1.5402393 0 0 0 1.5402393"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86721px;font-family:'Underwood Champion';-inkscape-font-specification:'Underwood Champion';shape-inside:url(#rect14213-1-6-2-4-9)">Morphy, of the 3d inst., that in all fairness </tspan></tspan><tspan
+           x="1101.7793"
+           y="123.41333"><tspan
+             dx="0 0 0 0 3.2852345 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3.2852345 0 0 0 3.2852345 0 0 0 0 0 0 0 0 3.2852345 0 0 0 0 0 0 3.2852345"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86721px;font-family:'Underwood Champion';-inkscape-font-specification:'Underwood Champion';shape-inside:url(#rect14213-1-6-2-4-9)">and considerateness Mr. Staunton should have </tspan></tspan><tspan
+           x="1101.7793"
+           y="133.63691"><tspan
+             dx="0 0 0 0 0 2.5327682 0 0 0 2.5327702 0 0 0 0 0 0 2.5327702 0 0 0 0 2.5327702 0 0 0 0 0 0 2.5327702 0 0 2.5327625 0 0 0 0 2.5327625 0 0 0 0 2.5327625"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86721px;font-family:'Underwood Champion';-inkscape-font-specification:'Underwood Champion';shape-inside:url(#rect14213-1-6-2-4-9)">told Mr. Morphy long before he did, that he </tspan></tspan><tspan
+           x="1101.7793"
+           y="143.86049"><tspan
+             dx="0 0 0 0 0 0 0 0 0 3.7068157 0 0 0 3.7068157 0 0 0 0 0 0 0 0 3.7068195 0 0 0 0 0 0 3.7068119 3.7068195 3.7068195 3.7068195 3.7068195 3.7068195 3.7068195 3.7068043 3.7068195"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86721px;font-family:'Underwood Champion';-inkscape-font-specification:'Underwood Champion';shape-inside:url(#rect14213-1-6-2-4-9)">declined the proposed match.         
+</tspan></tspan><tspan
+           x="1101.7793"
+           y="154.08406"><tspan
+             dx="0 0.43448448 0.43448448 0 0 0 0 0.43448448 0 0 0 0 0 0 0.43448448 0 0 0.43448067 0 0 0 0 0.4344883 0 0 0 0 0 0 0 0 0 0 0.43449593 0 0 0.43448067 0 0 0 0 0.43448067 0 0 0.43448067"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86721px;font-family:'Underwood Champion';-inkscape-font-specification:'Underwood Champion';shape-inside:url(#rect14213-1-6-2-4-9)">  That copies of this resolution be sent to Mr. </tspan></tspan><tspan
+           x="1101.7793"
+           y="164.30763"><tspan
+             dx="0 0 0 0 0 0 0 0 2.9075279 0 0 0 2.907526 0 0 0 0 0 0 0 0 0 2.907526 0 0 0 2.907526 0 0 0 2.9075184 0 0 0 0 0 0 2.9075336 0 0 2.9075336"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86721px;font-family:'Underwood Champion';-inkscape-font-specification:'Underwood Champion';shape-inside:url(#rect14213-1-6-2-4-9)">Morphy, Mr. Staunton, and the editor of the </tspan></tspan><tspan
+           x="1101.7793"
+           y="174.5312"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.86721px;font-family:'Underwood Champion';-inkscape-font-specification:'Underwood Champion';shape-inside:url(#rect14213-1-6-2-4-9)">Illustrated London News.</tspan></tspan></text>
+    </g>
+    <g
+       id="g62823-3-3"
+       transform="translate(-5.7220459e-6,-3.1781006)">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+         id="rect57043-6-6"
+         width="4.8937645"
+         height="4.8937645"
+         x="102.55312"
+         y="288.3031" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;line-height:3.67692px;font-family:Lora;-inkscape-font-specification:'Lora Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;stroke:none;stroke-width:0.175823px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="103.10383"
+         y="292.01294"
+         id="text59103-7-7"><tspan
+           sodipodi:role="line"
+           id="tspan59101-5-5"
+           x="103.10383"
+           y="292.01294"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Lora;-inkscape-font-specification:'Lora Medium';fill:#000000;stroke:none;stroke-width:0.175823px">24</tspan></text>
+    </g>
+  </g>
+</svg>

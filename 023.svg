@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg19502"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="023.svg"
+   inkscape:export-filename="/home/spcmd/Projects/Morphy-Staunton_Comic/_TEMPLATE.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <title
+     id="title46179">The Challenge: An illustrated story of Paul Morphy and Howard Staunton</title>
+  <defs
+     id="defs19496">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="121.19889 : 119.68308 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="331.19889 : 119.68308 : 1"
+       inkscape:persp3d-origin="226.19889 : 70.183075 : 1"
+       id="perspective19474" />
+    <pattern
+       patternTransform="matrix(10.995775,8.6493374,-6.9781797,6.3090477,-19.325051,-80.075558)"
+       id="pattern20617"
+       xlink:href="#Checkerboard" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="2"
+       patternTransform="translate(0,0) scale(10,10)"
+       id="Checkerboard">
+      <rect
+         style="fill:black;stroke:none"
+         x="0"
+         y="0"
+         width="1"
+         height="1"
+         id="rect1884" />
+      <rect
+         style="fill:black;stroke:none"
+         x="1"
+         y="1"
+         width="1"
+         height="1"
+         id="rect1886" />
+    </pattern>
+    <linearGradient
+       xlink:href="#SvgjsLinearGradient3371"
+       id="linearGradient14041-0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-52)"
+       x1="127.212"
+       y1="82.295998"
+       x2="126.463"
+       y2="83.189003" />
+    <linearGradient
+       id="SvgjsLinearGradient3371"
+       x1="127.212"
+       y1="82.295998"
+       x2="126.463"
+       y2="83.189003"
+       gradientTransform="translate(-52)"
+       gradientUnits="userSpaceOnUse"
+       class="svga-on-canvas-eyesiris-gradient-left-6">
+      <stop
+         id="SvgjsStop3372"
+         stop-opacity="1"
+         stop-color="#ffffff"
+         offset="0" />
+      <stop
+         id="SvgjsStop3373"
+         stop-opacity="0"
+         stop-color="#ffffff"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       y2="83.189003"
+       x2="126.463"
+       y1="82.295998"
+       x1="127.212"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient9203-3-9-3-7"
+       xlink:href="#SvgjsLinearGradient3394" />
+    <linearGradient
+       id="SvgjsLinearGradient3394"
+       x1="127.212"
+       y1="82.295998"
+       x2="126.463"
+       y2="83.189003"
+       gradientUnits="userSpaceOnUse"
+       class="svga-on-canvas-eyesiris-gradient-right-6">
+      <stop
+         id="SvgjsStop3395"
+         stop-opacity="1"
+         stop-color="#ffffff"
+         offset="0" />
+      <stop
+         id="SvgjsStop3396"
+         stop-opacity="0"
+         stop-color="#ffffff"
+         offset="1" />
+    </linearGradient>
+    <pattern
+       patternTransform="matrix(10.995775,8.6493374,-6.9781797,6.3090477,-19.325051,-80.075558)"
+       id="pattern20617-3"
+       xlink:href="#Checkerboard-6" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="2"
+       patternTransform="translate(0,0) scale(10,10)"
+       id="Checkerboard-6">
+      <rect
+         style="fill:black;stroke:none"
+         x="0"
+         y="0"
+         width="1"
+         height="1"
+         id="rect1884-7" />
+      <rect
+         style="fill:black;stroke:none"
+         x="1"
+         y="1"
+         width="1"
+         height="1"
+         id="rect1886-5" />
+    </pattern>
+    <linearGradient
+       xlink:href="#SvgjsLinearGradient3371"
+       id="linearGradient14041-0-3"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-52)"
+       x1="127.212"
+       y1="82.295998"
+       x2="126.463"
+       y2="83.189003" />
+    <linearGradient
+       y2="83.189003"
+       x2="126.463"
+       y1="82.295998"
+       x1="127.212"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient9203-3-9-3-7-2"
+       xlink:href="#SvgjsLinearGradient3394" />
+    <rect
+       y="3.7521408"
+       x="1101.7798"
+       height="97.981018"
+       width="199.84012"
+       id="rect14213-1-6-2-4-4-1-2-5"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742" />
+    <rect
+       y="3.7521408"
+       x="1101.7798"
+       height="97.981018"
+       width="199.84012"
+       id="rect28243"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect14213-1-6-2-9-0-7-9"
+       width="90.843178"
+       height="11.416029"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect28246"
+       width="90.843178"
+       height="11.416029"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       y="3.7521408"
+       x="1101.7798"
+       height="11.416029"
+       width="90.843178"
+       id="rect14213-1-6-2-9-0-7-9-7"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742" />
+    <rect
+       y="3.7521408"
+       x="1101.7798"
+       height="11.416029"
+       width="90.843178"
+       id="rect28249"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect14213-1-6-2-9-0-7-9-1-8"
+       width="11.227488"
+       height="12.016135"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect28252"
+       width="11.227488"
+       height="12.016135"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       y="3.7521408"
+       x="1101.7798"
+       height="12.016135"
+       width="11.227488"
+       id="rect14213-1-6-2-9-0-7-9-1-8-3"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742" />
+    <rect
+       y="3.7521408"
+       x="1101.7798"
+       height="12.016135"
+       width="11.227488"
+       id="rect28255"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect14213-1-6-2-9-0-7-9-1-8-3-8"
+       width="11.227488"
+       height="12.016135"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect28258"
+       width="11.227488"
+       height="12.016135"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect14213-1-6-2-9-0-7-9-1-8-3-6"
+       width="11.227488"
+       height="12.016135"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect28261"
+       width="11.227488"
+       height="12.016135"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       y="3.7521408"
+       x="1101.7798"
+       height="12.016135"
+       width="11.227488"
+       id="rect14213-1-6-2-9-0-7-9-1-8-33"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742" />
+    <rect
+       y="3.7521408"
+       x="1101.7798"
+       height="12.016135"
+       width="11.227488"
+       id="rect28264"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect14213-1-6-2-9-0-7-9-1-8-33-6"
+       width="11.227488"
+       height="12.016135"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect28267"
+       width="11.227488"
+       height="12.016135"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       y="3.7521408"
+       x="1101.7798"
+       height="12.016135"
+       width="11.227488"
+       id="rect14213-1-6-2-9-0-7-9-1-8-33-6-4"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742" />
+    <rect
+       y="3.7521408"
+       x="1101.7798"
+       height="12.016135"
+       width="11.227488"
+       id="rect28270"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect14213-1-6-2-9-0-7-9-1-8-33-6-4-8"
+       width="11.227488"
+       height="12.016135"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect28273"
+       width="11.227488"
+       height="12.016135"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect14213-1-6-2-4-4-1-2-5-3"
+       width="74.995674"
+       height="87.702873"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect28276"
+       width="74.995674"
+       height="87.702873"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect28278"
+       width="74.995674"
+       height="87.702873"
+       x="1101.7798"
+       y="3.7521408" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.853742"
+       id="rect28280"
+       width="74.995674"
+       height="87.702873"
+       x="1101.7798"
+       y="3.7521408" />
+    <pattern
+       patternTransform="matrix(10.995775,8.6493374,-6.9781797,6.3090477,-19.325051,-80.075558)"
+       id="pattern20617-3-3"
+       xlink:href="#Checkerboard-6-6" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="2"
+       patternTransform="translate(0,0) scale(10,10)"
+       id="Checkerboard-6-6">
+      <rect
+         style="fill:black;stroke:none"
+         x="0"
+         y="0"
+         width="1"
+         height="1"
+         id="rect1884-7-7" />
+      <rect
+         style="fill:black;stroke:none"
+         x="1"
+         y="1"
+         width="1"
+         height="1"
+         id="rect1886-5-5" />
+    </pattern>
+    <linearGradient
+       y2="131"
+       x2="100"
+       y1="171"
+       x1="100"
+       gradientTransform="matrix(2.0862461,0,0,2.0862461,306.57994,-1853.8039)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient18225"
+       xlink:href="#SvgjsLinearGradient4157" />
+    <linearGradient
+       gradientTransform="matrix(2.0862461,0,0,2.0862461,306.57994,-1853.8039)"
+       id="SvgjsLinearGradient4157"
+       x1="100"
+       y1="171"
+       x2="100"
+       y2="131"
+       gradientUnits="userSpaceOnUse"
+       class="svga-on-canvas-chinshadow-gradient-single-0">
+      <stop
+         id="SvgjsStop4158"
+         stop-opacity="0.8"
+         stop-color="#f0d8d8"
+         offset="0" />
+      <stop
+         id="SvgjsStop4159"
+         stop-opacity="1"
+         stop-color="#d19292"
+         offset="0.7" />
+    </linearGradient>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.74602;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect14213-1-0-12-4-8-7-8"
+       width="185.52167"
+       height="241.88714"
+       x="1521.2491"
+       y="38.494831" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.74602;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect24611"
+       width="186.02585"
+       height="251.56064"
+       x="1521.2491"
+       y="38.494831" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.74602;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect14213-1-0-12-4-8-7-8-6"
+       width="45.610965"
+       height="33.249414"
+       x="1521.2491"
+       y="38.494831" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.74602;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect38219"
+       width="185.05206"
+       height="373.29236"
+       x="1521.2491"
+       y="38.494831" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#0000d8"
+     borderopacity="1"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994951"
+     inkscape:cx="436.54423"
+     inkscape:cy="898.9362"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     borderlayer="false"
+     inkscape:showpageshadow="false"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-page="true"
+     inkscape:window-width="1678"
+     inkscape:window-height="1026"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true">
+    <sodipodi:guide
+       position="12.5,280.74703"
+       orientation="-1,0"
+       id="guide30126"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="197.5,243.70536"
+       orientation="-1,0"
+       id="guide30128"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-38.931547,284.5"
+       orientation="0,1"
+       id="guide30130"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,297"
+       orientation="0,793.70079"
+       id="guide30134" />
+    <sodipodi:guide
+       position="210,297"
+       orientation="1122.5197,0"
+       id="guide30136" />
+    <sodipodi:guide
+       position="210,0"
+       orientation="0,-793.70079"
+       id="guide30138" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-1122.5197,0"
+       id="guide30140" />
+    <sodipodi:guide
+       position="-63.122022,12.5"
+       orientation="0,1"
+       id="guide30142"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata19499">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>The Challenge: An illustrated story of Paul Morphy and Howard Staunton</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Ka (https://github.com/Ka-hu)</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="" />
+        <dc:language>English</dc:language>
+        <dc:date>2021</dc:date>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       y="0.43934786"
+       x="0.43934721"
+       height="296.12131"
+       width="209.12131"
+       id="rect14213-8"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.878694"
+       sodipodi:insensitive="true" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.719;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect14184-7-6-4"
+       width="184.28101"
+       height="227.42107"
+       x="12.8595"
+       y="12.859501" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.44431px;line-height:9.49589px;font-family:'Bilbo Swash Caps';-inkscape-font-specification:'Bilbo Swash Caps, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect14213-1-0-12-4-8-7-8);fill:#000000;stroke:none;stroke-width:0.0131258px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="1737.7679"
+       y="28.399433"
+       id="text13329-2-6-3-2-7"
+       transform="matrix(0.9477783,0,0,0.9477783,-1424.6817,-20.469442)"><tspan
+         x="1521.25"
+         y="45.227235"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0.43444085 0 0 0 0 0.43443894 0 0 0 0.43443894 0 0 0 0 0 0 0 0 0.43443513 0 0 0 0 0.43443513 0 0.43444276 0 0 0 0 0 0 0 0.43444276 0 0 0 0 0 0 0 0.43443513 0 0 0 0 0.43445039 0 0.43443513 0 0 0 0 0 0 0.43445039 0 0 0.43443513"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.44431px;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;shape-inside:url(#rect14213-1-0-12-4-8-7-8)">interfere with his entering into a serious contest with a player of the </tspan></tspan><tspan
+         x="1521.25"
+         y="55.368299"><tspan
+           dx="0 0 0 0 0 0 0 0 0.63915658 0 0 0 0 0 0.63915467 0 0 0 0.63915849 0 0 0.63915849 0 0 0 0 0 0 0 0 0.63915467 0 0 0 0 0 0 0 0 0 0.63915467 0 0 0 0.63915467 0 0 0.6391623 0 0 0 0 0.6391623 0 0 0 0.63914704 0 0 0 0 0 0 0 0.63914704 0 0 0.63914704"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.44431px;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;shape-inside:url(#rect14213-1-0-12-4-8-7-8)">highest force and in constant practice, and so far, the failure of the </tspan></tspan><tspan
+         x="1521.25"
+         y="65.509362"><tspan
+           dx="0 0 0 0 0 0 0.62950158 0 0 0.62950158 0 0 0 0.62950349 0 0 0 0 0.62950349 0 0 0.62950349 0 0 0.62950349 0 0 0 0 0 0 0 0 0 0 0.62950349 0 0 0 0.62950349 0 0 0 0.62950349 0 0.62950349 0 0 0 0 0 0.62950349 0 0 0 0.62950349 0 0 0 0 0 0 0 0 0 0 0 0.62950349"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.44431px;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;shape-inside:url(#rect14213-1-0-12-4-8-7-8)">match is the less to be regretted. Nor can I doubt the correctness of </tspan></tspan><tspan
+         x="1521.25"
+         y="75.650422"><tspan
+           dx="0 0 0 0 1.2717102 0 0 0 0 0 0 1.2717097 0 0 0 0 0 0 0 0 0 0 1.2717078 0 0 0 0 1.2717078 0 0 0 1.2717078 0 0 0 0 1.2717078 0 0 0 0 0 0 1.2717154 0 0 0 0 0 0 0 0 0 1.2717001 0 0 0 1.2717001 0 0 0 1.2717154"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.44431px;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;shape-inside:url(#rect14213-1-0-12-4-8-7-8)">his recent statement, that the time barely necessary for the match </tspan></tspan><tspan
+         x="1521.25"
+         y="85.79149"><tspan
+           dx="0 0 0 0 0 0 0 0.22802091 0 0 0 0 0 0.22801995 0 0 0 0.22802186 0 0 0.22802186 0 0 0 0 0 0 0 0.22801423 0 0 0 0 0 0 0 0.22802186 0 0 0 0 0 0 0 0.22802186 0 0 0 0 0.22802186 0 0 0 0.22801423 0 0 0 0 0 0 0 0 0 0 0 0 0 0.22801423"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.44431px;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;shape-inside:url(#rect14213-1-0-12-4-8-7-8)">itself could not be spared, without serious loss and inconvenience both </tspan></tspan><tspan
+         x="1521.25"
+         y="95.932557"><tspan
+           dx="0 0 0 0.93224502 0 0 0 0 0 0 0.93224549 0 0 0 0.93224549 0 0 0.93224549 0 0 0 0 0 0 0 0 0.93224549 0.93224549 0.93223786 0.93224549 0.93224549 0.93224549 0.93224549 0.93224549 0.93224549 0.93224549 0.93223786 0.93224549 0.93224549 0.93224549 0.93224549 0.93224549 0.93224549 0.93224549 0.93224549 0.93223786 0.93224549 0.93225312 0.93223786 0.93223786 0.93225312 0.93223786 0.93225312 0.93223786 0.93225312 0.93223786 0.93225312 0.93223786 0.93223786 0.93225312 0.93223786 0.93225312 0.93223786 0.93225312 0.93223786 0.93225312 0.93223786"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.44431px;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;shape-inside:url(#rect14213-1-0-12-4-8-7-8)">to others and to himself.                                         
+</tspan></tspan><tspan
+         x="1521.25"
+         y="106.07362"><tspan
+           dx="0 0.83507657 0.83507657 0.83507657 0 0 0 0.83507752 0 0.83507562 0 0 0 0 0 0 0.83507752 0 0 0 0.83507752 0 0 0 0 0 0.83507752 0 0 0 0 0.83507752 0 0 0.83507752 0 0 0 0.83507752 0 0 0 0 0 0 0 0 0.83506989 0 0 0 0.83506989"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.44431px;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;shape-inside:url(#rect14213-1-0-12-4-8-7-8)">   But I cannot but think that in all fairness and considerateness, </tspan></tspan><tspan
+         x="1521.25"
+         y="116.21469"><tspan
+           dx="0 0 0 0 0.33001065 0 0 0 0 0 0 0 0 0.33001161 0 0 0 0 0 0.33001161 0 0 0 0 0.33001161 0 0 0 0 0.33001161 0 0 0 0.33001161 0 0 0.33000398 0 0 0 0 0.33001161 0 0 0 0 0.33001161 0 0 0 0 0 0 0.33000398 0 0 0.33001924 0 0 0 0 0.33000398 0 0.33001924"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.44431px;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;shape-inside:url(#rect14213-1-0-12-4-8-7-8)">Mr. Staunton might have told you of this long before he did. I know </tspan></tspan><tspan
+         x="1521.25"
+         y="126.35576"><tspan
+           dx="0 0 0 0.2384007 0 0 0 0 0 0 0.23840165 0 0 0 0.23840165 0 0 0.23840165 0 0 0 0 0 0.23839784 0 0 0 0.23840547 0 0 0 0 0.23839784 0 0 0 0 0 0 0 0 0 0 0 0.23840547 0 0 0 0.23840547 0 0 0 0.23840547 0 0 0 0 0 0 0 0 0.23840547 0 0 0 0.23840547"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.44431px;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;shape-inside:url(#rect14213-1-0-12-4-8-7-8)">no reason why he might not have ascertained it, and informed you of </tspan></tspan><tspan
+         x="1521.25"
+         y="136.49683"><tspan
+           dx="0 0 0 1.3730404 0 0 1.3730404 0 0 0 0 0 0 1.3730376 0 0 1.3730414 0 0 0 0 1.3730414 0 0 0 0 0 1.3730414 0 0 0 0 0 0 1.3730414 0 0 0 0 1.3730414 0 0 0 0 0 0 0 0 1.373049 0 0 0 0 0 0 0 1.3730338 0 0 1.3730338 0 0 0 0 0 1.373049"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.44431px;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;shape-inside:url(#rect14213-1-0-12-4-8-7-8)">it in answer to your first letter from America. Instead of this, it </tspan></tspan><tspan
+         x="1521.25"
+         y="146.63789"><tspan
+           dx="0 0 0 0 0 0 0.95361543 0 0 0.95361543 0 0 0.95361543 0 0 0 0 0 0 0.95361543 0 0 0 0 0.95361543 0 0 0.95361543 0 0 0.95361543 0 0 0 0.95361543 0 0 0 0 0 0 0 0 0 0.95361543 0 0 0.9536078 0 0 0 0 0 0.95361543 0 0.95361543 0 0 0 0 0 0 0.95361543"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.44431px;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;shape-inside:url(#rect14213-1-0-12-4-8-7-8)">seems to me plain, both as to the interview at which I myself was </tspan></tspan><tspan
+         x="1521.25"
+         y="156.77896"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0.83844781 0 0 0 0.83844972 0 0 0.83844972 0 0 0.8384459 0 0 0 0.8384459 0 0 0 0.83844209 0 0 0 0 0 0.83844972 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.83845735 0 0 0 0 0 0.83844209 0 0 0 0 0.83844209"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.44431px;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;shape-inside:url(#rect14213-1-0-12-4-8-7-8)">present, and as to all the other communications which have passed, </tspan></tspan><tspan
+         x="1521.25"
+         y="166.92003"><tspan
+           dx="0 0 0 0 0 0.30726361 0 0 0 0.30726457 0 0 0 0 0 0 0 0 0.30726457 0 0 0 0 0.30726075 0 0 0 0.30726838 0 0 0 0 0 0.30726075 0 0 0 0 0 0 0.30726075 0 0 0.30726838 0 0 0 0 0 0 0 0.30726838 0 0 0 0 0.30726838 0 0 0.30726838 0 0 0 0 0 0.30725312"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.44431px;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;shape-inside:url(#rect14213-1-0-12-4-8-7-8)">that Mr. Staunton gave you every reason to suppose that he would be </tspan></tspan><tspan
+         x="1521.25"
+         y="177.0611"><tspan
+           dx="0 0 0 0 0 0 0.30653214 0 0 0.30653024 0 0 0 0 0.30653214 0 0 0 0.30653214 0 0 0 0 0 0.30653596 0 0 0 0 0 0 0.30652833 0 0 0.30653596 0 0 0 0 0.30653596 0 0 0 0 0 0.30652833 0 0.30652833 0 0 0.30653596 0 0 0 0.30653596 0 0 0 0 0 0 0.3065207"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.44431px;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;shape-inside:url(#rect14213-1-0-12-4-8-7-8)">ready to play the match within no long time. I am not aware, indeed </tspan></tspan><tspan
+         x="1521.25"
+         y="187.20216"><tspan
+           dx="0 0 0 0 0 0.39300466 0 0 0.39300561 0 0.39300561 0 0 0 0 0 0 0 0 0.39300752 0 0 0 0 0.39300752 0 0 0 0.39299989 0 0 0 0 0.39299989 0 0 0 0 0.39300752 0 0 0 0 0.39300752 0 0 0 0.39300752 0 0 0 0 0.39299226 0 0 0 0 0 0 0 0.39300752 0 0 0 0 0 0 0.39299226"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.44431px;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;shape-inside:url(#rect14213-1-0-12-4-8-7-8)">(nor do I perceive that you said it), that you left America solely with </tspan></tspan><tspan
+         x="1521.25"
+         y="197.34323"><tspan
+           dx="0 0 0 0 0.43133569 0 0 0 0 0.43133569 0 0 0.43133759 0 0 0 0 0 0 0 0.43133378 0 0 0 0.43134141 0 0 0 0 0 0 0 0 0 0.43132997 0 0 0.43132997 0 0 0 0 0 0 0.43132997 0 0 0.43133759 0 0 0 0 0 0 0.43133759 0 0 0 0 0.43133759 0 0 0 0.43133759"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.44431px;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;shape-inside:url(#rect14213-1-0-12-4-8-7-8)">the view of playing Mr. Staunton. It would, no doubt, make the case </tspan></tspan><tspan
+         x="1521.25"
+         y="207.4843"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0.19085908 0 0 0 0.19085908 0 0 0.19085908 0 0 0 0 0 0.19085908 0 0 0.19085908 0 0 0.19085908 0 0 0.19085908 0 0 0 0 0 0 0 0 0.19085908 0 0 0.19085908 0 0 0 0 0.19085145 0 0 0 0.19085908 0 0 0 0 0 0 0.19085908 0 0 0 0 0.19085908"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.44431px;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;shape-inside:url(#rect14213-1-0-12-4-8-7-8)">stronger, but it seems to me as unlikely as that you should have come, </tspan></tspan><tspan
+         x="1521.25"
+         y="217.62537"><tspan
+           dx="0 0 0 0.38285899 0 0 0 0.38286042 0 0 0 0 0.38286042 0 0 0 0 0 0 0 0.38285661 0 0 0 0 0 0 0.38286042 0 0 0 0 0 0 0 0 0 0 0 0 0 0.38286042 0 0 0 0.38286042 0 0 0 0 0 0 0 0 0 0.38286042 0 0 0 0.38286042 0 0 0 0 0.38284516"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.44431px;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;shape-inside:url(#rect14213-1-0-12-4-8-7-8)">as has been already stated (anonymously, and certainly not with Mr. </tspan></tspan><tspan
+         x="1521.25"
+         y="227.76643"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 3.9532301 0 0 0 0 0 0 0 0 0 0 0 0 0 3.9532263 0 0 3.9532263 0 0 0 0 0 3.9532263 0 0 3.953234 0 0 0 0 0 0 3.953234 0 0 0 3.953234"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.44431px;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;shape-inside:url(#rect14213-1-0-12-4-8-7-8)">Staunton's concurrence), in order to attend the Birmingham </tspan></tspan><tspan
+         x="1521.25"
+         y="237.9075"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 150.83105"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.44431px;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;shape-inside:url(#rect14213-1-0-12-4-8-7-8)">Tournament. 
+</tspan></tspan><tspan
+         x="1521.25"
+         y="248.04857"><tspan
+           dx="0 0.60909486 0.60909486 0.60909486 0 0 0 0 0.60909486 0 0 0 0 0 0 0.60909486 0 0 0.60909486 0 0 0 0.60909486 0 0 0 0 0 0 0 0 0 0 0 0.60909486 0 0 0.60909486 0 0 0 0 0.60909486 0 0 0.60909486 0 0 0 0 0.60908723 0 0 0 0 0.60908723 0 0 0 0 0 0 0 0.60910249 0 0.60910249"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.44431px;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;shape-inside:url(#rect14213-1-0-12-4-8-7-8)">   With regard to the suppression of part of your last letter, I must </tspan></tspan><tspan
+         x="1521.25"
+         y="258.18964"><tspan
+           dx="0 0 0 0 0 0 0 0 0 0.13108468 0 0 0 0 0.13108277 0 0.13108659 0 0 0.13108659 0 0 0 0.13108659 0 0 0 0 0 0.13108277 0 0 0 0.1310904 0 0 0 0.13108277 0 0 0 0.1310904 0 0 0 0 0 0 0 0 0.1310904 0 0 0.1310904 0 0 0 0 0 0 0 0 0 0 0 0.1310904"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.44431px;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;shape-inside:url(#rect14213-1-0-12-4-8-7-8)">observe, that I am not aware how far Mr. Staunton is responsible for </tspan></tspan><tspan
+         x="1521.25"
+         y="268.33069"><tspan
+           dx="0 0 0 0 0 -0.55750006 0 0 0 0 0 0 0 -0.5574972 0 0 -0.55750102 0.044665899 -0.044666681 0 -0.55750102 0 0.044665899 -0.044665966 0 0 0 0 0 0 0 0 -0.55750483 0 0 0 0 0 0 -0.5574972 0 0 0 0 0 -0.55750483 0 0 0 -0.55750483 0 0 0 0 0 0 0 -0.55750483"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script';letter-spacing:-0.0446659px">what appears in the Illustrated London News. But whoever is</tspan><tspan
+           dx="-0.044661283 -0.55749297 -0.55750823 -0.55749297 -0.55750823 -0.55749297 -0.55750823 -0.55749297 -0.55750823 -0.55749297 -0.55750823 -0.55749297 -0.55750823 -0.55749297 -0.55749297 -0.55749297 -0.55750823 -0.55749297 -0.55749297 -0.55750823 -0.55749297 -0.55750823"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.44431px;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;shape-inside:url(#rect14213-1-0-12-4-8-7-8)">                     
+</tspan></tspan><tspan
+         x="1521.25"
+         y="278.47174"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.44431px;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;shape-inside:url(#rect14213-1-0-12-4-8-7-8)">
+</tspan></tspan><tspan
+         style="visibility:hidden"
+         x="1521.25"
+         y="287.11591"><tspan
+           dx="0 1.9280679 1.9280679 1.9280677 4.5261393 3.2606058 2.1216278 1.9280672 4.5931301 3.5434895 2.7171726 2.4789429 3.029829 2.4789429 2.5906181 1.9280663 1.794075 2.5682793 1.9280701 2.5906181 2.4789391 2.5682831 2.910717 2.7171707 3.4690475 2.5682831 1.7940674 2.9330521 1.7568436 2.4789429 1.9280701 2.3226089 0 5.6055603 1.9280624 0 5.6725616 3.2457123 2.1216278 1.9280624 2.5682831 3.2606049 2.9107208 2.9107132 2.5906143 2.4789429 2.5682831 2.5682831 1.794075 2.7171707 3.4690399 1.4590759 1.9280701 3.4169464 1.9280548 4.8090363 3.2606049 2.5682831 2.1216278 1.9280548 2.5682831 3.2457123 2.8958435 1.9280701 0 5.6725464 3.2457123 2.1216278 1.9280701 3.4169312 1.9280701 2.4045105 3.2457123 3.4690552 3.4690399 2.7171783 2.1216278 1.9280548 2.5682831 0 4.9727936 1.9280701 3.5434875 2.7171783 4.5931244 1.9280701 1.7940826 2.1216278 1.9280548 1.7940826 2.5682831 1.9280701 2.9107056 2.7171783 2.5682831 2.5682831 1.7940674 2.9330444 1.7568512 2.4789429 1.9280548 2.1216431 2.7171631 1.9280701 1.6228638 3.2605896 2.5682983 2.1216125 1.7940674 2.3226318 2.895813 1.9280701 0 5.6055603 1.9280701 2.4789429 3.1117249 2.4045105 3.2605896 2.5682983 2.4789429 1.9280701 1.7940674 2.1216125 1.5930786"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.44431px;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;shape-inside:url(#rect14213-1-0-12-4-8-7-8)">   But whoever is responsible for that suppression, I must say that I cannot see how it is possible to justify or excuse it.
+</tspan></tspan><tspan
+         style="visibility:hidden"
+         x="1521.25"
+         y="297.25697"><tspan
+           dx="0 3.4169357 1.9280679 2.8958364 2.5906162 2.4789429 3.2457113 2.1216278 1.7568417 2.8958378 1.9280663 2.5906181 2.478941 2.8958378 2.5906143 2.4789429 2.1216278 1.9280701 0 5.6725578 2.4789391 1.9280701 2.3226128 3.2457123 1.7940712 1.7568436 3.2606087 2.5906143 2.4789429 1.9280701 2.7171707 2.3226089 1.9280701 3.2457123 1.9280624 2.4045181 2.7171707 3.4690399 2.1216278 2.4789429 2.5682831 2.1216278 1.9280701 4.593132 3.5434875 1.794075 2.4045105 3.5434875 1.9280701 4.593132 2.7171707 3.2606049 1.7568359 3.5211639 1.9280701 3.5434875 3.2457123 3.0298309 2.4789429 1.9280701 2.9330444 0 4.9727936 3.4690552 1.9280548 2.7171783 2.3226166 1.9280701 4.809021 3.2606049 2.4045105 3.5434875 1.9280701 1.7940674 3.4690552 2.1216278 2.4789429 2.5906067 2.4789429 2.5682831 2.1216278 1.4590759 1.9280701 3.2457123 3.4690399 3.5211639 1.9280701 0 5.6725464 2.4789429 1.9280701 2.7171783 3.4690399 1.7568512 2.8958282 1.9280701 2.7171783 3.4690399 2.4789429 1.4590759 1.9280701 3.245697 2.5682983 1.9280701 3.4169312 1.9280701 2.9330444 2.4789429 1.7568359 1.7940979 2.4789429 3.0298157 2.4789429 1.4590759 1.9280701 4.5931396 3.5434875 1.7940674 2.4045105 3.5434875 1.9280701 2.4045105 2.7171631 3.2606201 1.7568359 3.5211487 1.9280701 3.5434875 3.2457275 3.0298157 2.4789429 1.9280701 2.1216431 3.245697 3.3201599 2.4789429 3.4690552 1.9280701 2.9107056 1.7568359 3.2457275 2.4045105 2.4789429 1.9280701 4.5931091 1.7940979 0 5.6725464 1.9280701 2.8958435 2.7171631 3.2605896 1.4591064 1.9280701 4.5931091 1.7940674 0 5.6725769 1.9280701 3.245697 3.4690552 2.8958435 1.9280396 2.404541 3.5434875 3.245697 3.4690552 2.4045105 2.4789429 1.9280701 2.7171631 2.3226013 1.9280701 1.7940979 2.1216125 2.5682678 1.9280701 2.5906372 2.4789429 3.5211487 2.7171631 3.2606201 3.4690247 3.5211792 1.7940674 3.4690552 2.895813 1.9280701 2.1216431 2.7171631 1.9280701 0 5.6725464 2.4789429 1.9280701 2.4045105 2.5906372 2.4789429 3.5211182 1.7940674 2.1216431 1.9281006 2.7171631 2.3225708 1.9281006 0 5.6725464 1.7940674 2.5682983 1.9280396 2.404541 2.7171631 3.2606201 3.4690552 2.121582 2.5906372 2.895813 1.5930786 1.9281006 3.4169312 1.9280396 2.5682983 2.1216431 1.7940674 0 3.5211792 1.9280396 4.809021 0 5.6055298 2.4789429 1.9281006 2.5906372 2.4789429 2.895813 2.5906372 2.4789429 2.121582 1.9281006 0 5.6725464 3.2457275 2.121582 1.9281006 3.2457275 3.4690552 2.895813 1.9280396 3.2457275 3.4690552 3.4690552 2.7171631 2.895813 3.2457275 3.4690552 2.40448 2.4789429 1.9281006 0 5.6055298 1.9281006 3.5211182 1.7940674 2.5682983 3.2457275 2.9107056 2.9107056 2.7171631 1.7940674 3.4690552 2.1216431 4.809021 2.4789429 3.4690552 2.1216431 1.9280396 2.5682983 3.543457 2.7172241 3.2605591 1.7568359 3.5211792 1.9281006 3.543457 3.2457275 3.0298462 2.4789429 1.9280396 2.9330444 0 4.9727783 3.4690552 1.9281006 3.2605591 3.4690552 3.5211792 2.4789429 2.5906372 2.895813 2.7171631 3.4690552 2.4789429 1.9280396 2.9331055 2.895813 1.9280396 2.7171631 3.4690552 2.4789429 1.4591064 1.9280396 4.5931396 3.5435181 2.9628296 6.2382812 3.2457275 2.5682983 1.9280396 3.2457275 1.9281006 2.3225708 0 5.6055908 2.4789429 1.7940674 2.895813 3.4690552 2.4789429 2.8511353 6.2383423 2.3226318 2.5906372 2.7171631 4.809021 1.9280396 3.5435181 1.7940674 2.5682983 1.9280396 3.2457275 2.895813 2.4789429 1.4591064 1.9280396 3.5435181 1.7940674 2.5682373 1.9281006 3.2457275 2.9330444 1.7940674 1.7568359 1.7940674 2.1216431 2.895813 1.4591064 1.9280396 3.2457275 3.4690552 3.5211182 1.9281006 3.543457 1.7940674 2.5682983 1.9281006 2.40448 2.7171631 3.4690552 3.5211792 3.2606201 2.40448 2.1216431 1.9280396 3.2457275 3.4690552 3.5211182 1.9281006 2.40448 3.5435181 3.2457275 2.5905762 3.2457275 2.404541 2.121582 2.4789429 2.5906372 1.4591064 1.9281006 1.7940674 2.5682373 1.9281006 2.4788818 4.809082 1.7940674 3.4689941 2.4790039 3.4689941 2.121582 1.756958 2.895752 1.9281006 2.4788818 3.4691162 2.121582 1.7940674 2.1217041 1.7568359 2.4788818 3.5212402 1.9279785 2.1217041 2.7171631 1.9279785 0 5.6726074 2.4790039 1.9279785 3.2606201 2.121582 4.809082 2.7171631 2.5682373 2.1217041 1.9281006 2.4044189 2.7171631 3.4691162 2.5682373 1.7940674 3.5212402 2.4788818 2.5905762 3.2457275 2.1217041 1.7940674 2.7171631 3.4689941 1.9281006 1.7940674 3.4689941 1.9281006 0 5.6726074 2.4788818 1.9281006 3.4019775 3.2606201 2.5906982 2.7171631 2.9106445 2.4790039 3.2457275 3.4689941 1.9281006 2.404541 2.7171631 3.2606201 3.4689941 2.121582 2.5906982 1.7940674 2.4788818 2.5683594 1.9279785 4.5931396 3.543457 1.7941895 2.4044189 3.5435791 1.9279785 3.5435791 2.4788818 1.9281006 4.80896 3.2457275 2.895874 1.9281006 3.0297852 1.7940674 2.5682373 1.7940674 2.1217041 1.5930176"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.44431px;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;shape-inside:url(#rect14213-1-0-12-4-8-7-8)">I greatly regret the failure of a contest which would have been of much interest, and the only one, as I believe, which could have taken place with you, with any chance of its redounding to the credit of this country. I still more regret that any annoyance or disappointment should have been undergone by one, who—as a foreigner—from his age, his ability, and his conduct and character, is eminently entitled to the utmost consideration in the European countries which he may visit.
+</tspan></tspan><tspan
+         style="visibility:hidden"
+         x="1521.25"
+         y="307.39803"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.44431px;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;shape-inside:url(#rect14213-1-0-12-4-8-7-8)">
+</tspan></tspan><tspan
+         style="visibility:hidden"
+         x="1521.25"
+         y="317.5391"><tspan
+           dx="0 1.9280679 1.9280679 1.9280677 1.9280682 1.9280682 1.9280672 1.9280682 1.9280682 1.9280682 1.9280682 1.9280682 1.9280663 1.9280682 1.9280682 1.9280682 1.9280682 1.9280663 3.4169388 1.9280663 3.2457123 4.8090248 1.4590759 1.9280701 3.5211525 2.4789429 3.2457123 2.5906181 1.9280663 2.5682793 1.794075 2.5906143 1.4590836 1.9280624 2.8958359 2.7171783 3.2606049 2.5906143 2.5682831 1.9280701 2.1216278 2.5906143 3.2606049 1.7568436 2.8958359 1.4590759 1.9280701 1.9280701 1.9280624 1.9280701 1.9280701"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.44431px;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;shape-inside:url(#rect14213-1-0-12-4-8-7-8)">                 I am, dear sir, yours truly,     
+</tspan></tspan><tspan
+         style="visibility:hidden"
+         x="1521.25"
+         y="327.68016"><tspan
+           dx="0 1.9280679 1.9280679 1.9280677 1.9280682 1.9280682 1.9280672 1.9280682 1.9280682 1.9280682 1.9280682 1.9280682 1.9280663 1.9280682 1.9280682 1.9280682 1.9280682 1.9280663 1.9280701 1.9280663 1.9280701 1.9280663 1.9280701 1.9280663 1.9280663 1.9280701 1.9280663 1.9280701 1.9280663 1.9280701 1.9280663 1.9280701 1.9280663 1.9280663 1.9280663 1.9280701 1.9280701 1.9280701 1.9280624 1.9280701 1.9280701 1.9280624 1.9280701 1.9280701 1.9280701 1.9280624 1.9280701 1.9280701 1.9280624 1.9280701 1.9280701 1.9280701 1.9280624 1.9280701 1.9280701 1.9280701 1.9280624 1.9280701 1.9280701 1.9280624 1.9280701 1.9280701 4.0422516 2.8958359 2.1216278 2.1216278 2.4789429 1.7568512 2.1216278 2.7171631 3.4690399"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.44431px;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;shape-inside:url(#rect14213-1-0-12-4-8-7-8)">                                                             Lyttelton
+</tspan></tspan><tspan
+         style="visibility:hidden"
+         x="1521.25"
+         y="337.82122"><tspan
+           dx="0 1.9280679 1.9280679"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.44431px;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;shape-inside:url(#rect14213-1-0-12-4-8-7-8)">   </tspan></tspan></text>
+    <g
+       id="g19470" />
+    <g
+       id="g24785"
+       transform="matrix(0.75551675,0,0,0.75551675,25.670738,62.882915)">
+      <path
+         id="path293023-9-7-6"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.181496;stroke-opacity:1;stop-color:#000000"
+         d="m 128.25538,262.77353 a 1.1319186,1.1319186 0 0 0 -1.14391,1.12007 1.1319186,1.1319186 0 0 0 0.38763,0.86511 l -0.19979,2.75831 -0.11065,-10e-4 -0.006,0.55237 2.03326,0.0214 0.006,-0.55238 -0.10972,-0.001 -0.14159,-2.7619 a 1.1319186,1.1319186 0 0 0 0.40485,-0.85676 1.1319186,1.1319186 0 0 0 -1.12007,-1.14394 z" />
+      <path
+         id="path293023-9-7-5"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-opacity:1;stop-color:#000000"
+         d="m 76.209775,261.67049 a 1.1319186,1.1319186 0 0 0 -1.14391,1.12007 1.1319186,1.1319186 0 0 0 0.38763,0.86511 l -0.19979,2.75831 -0.11065,-10e-4 -0.006,0.55237 2.03326,0.0214 0.006,-0.55238 -0.10972,-10e-4 -0.14159,-2.7619 a 1.1319186,1.1319186 0 0 0 0.40485,-0.85676 1.1319186,1.1319186 0 0 0 -1.12007,-1.14394 z" />
+      <path
+         id="path293023-9-7-5-9"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-opacity:1;stop-color:#000000"
+         d="m 78.723897,262.19966 a 1.1319186,1.1319186 0 0 0 -1.14391,1.12007 1.1319186,1.1319186 0 0 0 0.38763,0.86511 l -0.19979,2.75831 -0.11065,-10e-4 -0.006,0.55237 2.03326,0.0214 0.006,-0.55238 -0.10972,-0.001 -0.14159,-2.7619 a 1.1319186,1.1319186 0 0 0 0.40485,-0.85676 1.1319186,1.1319186 0 0 0 -1.12007,-1.14394 z" />
+      <path
+         id="path293029-1-77"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-opacity:1;stop-color:#000000"
+         d="m 81.889343,260.41835 0.16299,0.75065 0.0609,0.28046 0.27703,1.27583 0.47019,-0.1021 0.56321,4.06131 -0.18881,0.041 0.16677,0.76805 3.47096,-0.75366 -0.16677,-0.76805 -0.18698,0.0406 -1.17271,-3.92897 0.46928,-0.10189 -0.33792,-1.55629 -0.163,-0.75065 -0.8359,0.1815 0.16299,0.75066 -0.15763,0.0342 -0.16299,-0.75065 -1.43715,0.31205 0.163,0.75065 -0.15857,0.0344 -0.16299,-0.75065 z" />
+      <path
+         id="path294614"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-opacity:1;stop-color:#000000"
+         d="m 81.369732,262.19966 a 1.1319186,1.1319186 0 0 0 -1.14391,1.12007 1.1319186,1.1319186 0 0 0 0.38763,0.86511 l -0.19979,2.75831 -0.11065,-10e-4 -0.006,0.55237 2.03326,0.0214 0.006,-0.55238 -0.10972,-0.001 -0.14159,-2.7619 a 1.1319186,1.1319186 0 0 0 0.40485,-0.85676 1.1319186,1.1319186 0 0 0 -1.12007,-1.14394 z" />
+      <g
+         id="g294476"
+         transform="matrix(0.31168121,0,0,0.31168121,203.4233,216.59355)">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.72381;stroke-opacity:1;stop-color:#000000"
+           id="rect14426-5"
+           width="85.091621"
+           height="17.239239"
+           x="-358.69098"
+           y="200.63223" />
+        <g
+           id="g294422"
+           transform="translate(-232.79317,-36.577777)">
+          <rect
+             style="fill:#000000;stroke:#000000;stroke-width:0.117992;stop-color:#000000"
+             id="rect294378"
+             width="11.130529"
+             height="122.91443"
+             x="-88.917282"
+             y="114.23658" />
+          <rect
+             style="fill:#000000;stroke:#000000;stroke-width:0.132093;stop-color:#000000"
+             id="rect294378-4"
+             width="11.116427"
+             height="154.24588"
+             x="-148.89937"
+             y="-159.86111"
+             transform="rotate(-90)" />
+        </g>
+        <path
+           sodipodi:type="star"
+           style="fill:none;stroke:#000000;stroke-width:6;stop-color:#000000"
+           id="path294432"
+           sodipodi:sides="3"
+           sodipodi:cx="-393.08286"
+           sodipodi:cy="143.78552"
+           sodipodi:r1="36.648602"
+           sodipodi:r2="18.324303"
+           sodipodi:arg1="0.5337242"
+           sodipodi:arg2="1.5809218"
+           inkscape:flatsided="true"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m -361.5314,162.43025 -63.47399,-0.64273 32.29361,-54.64872 z"
+           inkscape:transform-center-x="0.18553585"
+           inkscape:transform-center-y="-9.0010028" />
+        <path
+           style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:5.34622;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -356.39366,161.87414 c -21.87824,34.20316 -50.47401,33.99 -72.8715,0.0723 z"
+           id="path294440"
+           sodipodi:nodetypes="ccc" />
+        <path
+           sodipodi:type="star"
+           style="fill:none;stroke:#000000;stroke-width:6;stop-color:#000000"
+           id="path294432-9"
+           sodipodi:sides="3"
+           sodipodi:cx="-238.90881"
+           sodipodi:cy="143.78552"
+           sodipodi:r1="36.648602"
+           sodipodi:r2="18.324303"
+           sodipodi:arg1="0.5337242"
+           sodipodi:arg2="1.5809218"
+           inkscape:flatsided="true"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           inkscape:transform-center-x="0.18553585"
+           inkscape:transform-center-y="-9.0010028"
+           d="m -207.35736,162.43025 -63.47398,-0.64273 32.2936,-54.64872 z" />
+        <path
+           style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:5.34622;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -202.21961,161.87416 c -21.87824,34.20316 -50.47401,33.99 -72.8715,0.0723 z"
+           id="path294440-0"
+           sodipodi:nodetypes="ccc" />
+      </g>
+      <path
+         id="path293023-9"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.181496;stroke-opacity:1;stop-color:#000000"
+         d="m 125.51607,262.80718 a 1.1319186,1.1319186 0 0 0 -0.95948,1.2816 1.1319186,1.1319186 0 0 0 0.51517,0.79578 l 0.22372,2.75647 -0.10953,0.0158 0.0786,0.54678 2.0127,-0.28925 -0.0786,-0.5468 -0.10861,0.0157 -0.56163,-2.7079 a 1.1319186,1.1319186 0 0 0 0.26929,-0.90854 1.1319186,1.1319186 0 0 0 -1.28159,-0.9595 z" />
+      <path
+         id="path293029-1"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.181496;stroke-opacity:1;stop-color:#000000"
+         d="m 128.30894,260.42328 0.16299,0.75065 0.0609,0.28046 0.27703,1.27583 0.47019,-0.1021 0.56321,4.06131 -0.18881,0.041 0.16677,0.76805 3.47096,-0.75366 -0.16677,-0.76805 -0.18698,0.0406 -1.17271,-3.92897 0.46928,-0.10189 -0.33792,-1.55629 -0.163,-0.75065 -0.8359,0.1815 0.16299,0.75066 -0.15763,0.0342 -0.16299,-0.75065 -1.43715,0.31205 0.163,0.75065 -0.15857,0.0344 -0.16299,-0.75065 z" />
+      <path
+         id="path293023-9-7"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.181496;stroke-opacity:1;stop-color:#000000"
+         d="m 123.54071,261.90043 a 1.1319186,1.1319186 0 0 0 -1.14391,1.12007 1.1319186,1.1319186 0 0 0 0.38763,0.86511 l -0.19979,2.75831 -0.11065,-10e-4 -0.006,0.55237 2.03326,0.0214 0.006,-0.55238 -0.10972,-10e-4 -0.14159,-2.7619 a 1.1319186,1.1319186 0 0 0 0.40485,-0.85676 1.1319186,1.1319186 0 0 0 -1.12007,-1.14394 z" />
+      <path
+         id="path293029-1-7"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.181496;stroke-opacity:1;stop-color:#000000"
+         d="m 132.75549,263.59607 -0.036,0.7673 -0.0135,0.28668 -0.0612,1.30412 0.48062,0.0226 -0.50277,4.06924 -0.193,-0.009 -0.0369,0.78508 3.54794,0.16657 0.0368,-0.78508 -0.19112,-0.009 -0.12025,-4.09849 0.47968,0.0225 0.0747,-1.5908 0.036,-0.7673 -0.85444,-0.0401 -0.036,0.76731 -0.16112,-0.008 0.036,-0.7673 -1.46902,-0.069 -0.036,0.7673 -0.16208,-0.008 0.036,-0.7673 z" />
+    </g>
+    <g
+       id="g62823-3-3-3"
+       transform="translate(-5.7220459e-6,-3.1781006)">
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+         id="rect57043-6-6-5"
+         width="4.8937645"
+         height="4.8937645"
+         x="102.55312"
+         y="288.3031" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;line-height:3.67692px;font-family:Lora;-inkscape-font-specification:'Lora Medium';letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke:none;stroke-width:0.175823px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="103.3737"
+         y="292.01294"
+         id="text59103-7-7-6"><tspan
+           sodipodi:role="line"
+           id="tspan59101-5-5-2"
+           x="103.3737"
+           y="292.01294"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.52778px;font-family:Lora;-inkscape-font-specification:'Lora Medium';fill:#ffffff;stroke:none;stroke-width:0.175823px">21</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.44431px;line-height:9.49589px;font-family:'Bilbo Swash Caps';-inkscape-font-specification:'Bilbo Swash Caps, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect14213-1-0-12-4-8-7-8-6);fill:#000000;stroke:none;stroke-width:0.0131258px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="1737.7679"
+       y="28.399433"
+       id="text13329-2-6-3-2-7-7"
+       transform="matrix(0.9477783,0,0,0.9477783,-1274.7564,181.37169)"><tspan
+         x="1521.25"
+         y="45.227235"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.44431px;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;shape-inside:url(#rect14213-1-0-12-4-8-7-8-6)">
+</tspan></tspan><tspan
+         x="1521.25"
+         y="55.368299"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.44431px;font-family:'Dancing Script';-inkscape-font-specification:'Dancing Script';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:justify;text-anchor:start;shape-inside:url(#rect14213-1-0-12-4-8-7-8-6)">responsible</tspan></tspan></text>
+  </g>
+</svg>
