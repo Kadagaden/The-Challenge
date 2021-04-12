@@ -5,5 +5,5 @@ This repository contains the source (svg) files.
 
 ![preview image](https://i.imgur.com/K8NfyUD.png)
 
-# Lincense
+# License
 You can share this work, but it has to remain free for everyone! You can modify, translate the source files, but you have to give credit and publish the modified source files for free.
